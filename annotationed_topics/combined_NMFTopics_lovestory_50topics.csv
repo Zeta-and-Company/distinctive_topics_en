@@ -1,0 +1,51 @@
+topic_no	test_statistic	p-value	topic_words	interpretable?_BC	category_BC	interpretable?_JR	category_JR	interpretable?_phi4	category_phi4
+Topic_48	51.2639187835	0.0	dear quite aunt course really smile laugh poor uncle mean	no		yes	theme	no	
+Topic_4	42.4227967559	0.0	feel away face leave want heart sit feeling mind walk	yes	theme	yes	style	no	
+Topic_12	29.4346782981	2.1706068229044345e-186	look turn round walk sit stand wonder show notice glance	no		no		no	
+Topic_16	29.2900898312	2.722718145436781e-184	girl daughter pretty heart sister away school take call dress	yes	main character	yes	main character	yes	main character
+Topic_30	27.0897462573	1.1848638106454823e-158	eye face smile voice turn head lip white glance stand	yes	theme	yes	theme	no	
+Topic_15	26.4996144454	4.893889543934113e-152	want right mean talk work course money away keep help	no		yes	main character	no	
+Topic_11	24.9416059193	8.640716757893348e-135	mother child daughter year sister wife little family live husband	yes	main character	yes	theme	yes	theme
+Topic_0	23.9070877133	1.1722102936769494e-124	little child quite sit sort away world presently side suddenly	no		yes	theme	no	
+Topic_29	18.7772407533	5.311186407410666e-78	life world live year dream soul death human die nature	no		yes	theme	no	
+Topic_17	15.6630730344	5.6200077488769565e-55	old year big family poor age live ago remember white	no		yes	main character	no	
+Topic_9	14.1951828849	1.6003759859289134e-45	woman wife husband child look call marriage beauty dress beautiful	yes	main character	yes	theme	yes	theme
+Topic_6	14.0283379143	1.6390782634146026e-44	day morning week work hour hand month leave return evening	no		yes	setting	no	
+Topic_42	12.8499661384	1.4232544474099285e-37	ye wi hill wad sit weel uncle fer folk ti	no		no		no	
+Topic_10	11.328813026	1.1681296808040137e-29	father daughter year money priest family brother wish church speak	yes	theme	yes	theme	no	
+Topic_1	9.8342106486	9.052246647615182e-23	hand hold arm head stand turn finger draw foot shoulder	yes	style	no		no	
+Topic_24	7.2826654751	3.384329806391157e-13	boy child uncle lad school big right brother rover call	no		yes	theme	no	
+Topic_47	2.9600265048	0.0030793759	hear speak voice word call sound listen talk silence mean	yes		yes	style	no	
+Topic_25	2.0140159435	0.0440205112	letter write read paper send word hand open take note	no		no		no	
+Topic_31	1.9794774079	0.047774891	give keep wish show bring order eye life send help	no		no		no	
+Topic_49	1.230563175	0.2185009169	madame ah countess count newman french smile husband giles st	yes	theme	yes	setting	no	
+Topic_46	0.2035405695	0.8387143797	god heart word leave die death eye soul child speak	no		yes	theme	no	
+Topic_21	-0.7586756042	0.4480548128	night light sleep hour bed morning dark sit evening darkness	no		no		no	
+Topic_41	-1.0454963554	0.2958048168	work book story read write york author year paper novel	no		no		no	
+Topic_18	-1.0631548198	0.2877224422	answer question speak continue turn remark exclaim word understand away	no		yes	style	no	
+Topic_44	-3.101675496	0.0019265392	colonel officer gentleman take indian face pinto year herrick white	no		no		no	
+Topic_39	-3.5101919496	0.0004486376	horse ride road saddle hill mile side turn pass head	yes	setting	no		no	
+Topic_36	-3.6619767489	0.0002508535	fact matter mind mean quite course word question point reason	no		yes	style	no	
+Topic_7	-3.9879383946	6.684021202225953e-05	people city world white place talk country time crowd god	no		yes	setting	no	
+Topic_2	-4.5352360475	5.78321264832541e-06	friend name money year meet gentleman call hand pay business	no		yes	main character	no	
+Topic_35	-5.4009254103	6.690977547906463e-08	doctor dr kennedy patient nurse case die call bed poor	yes	setting	yes	setting	no	
+Topic_43	-6.862422338	6.9257985182865175e-12	room table window chair leave bed hall sit floor enter	no		yes	setting	no	
+Topic_37	-8.1653001351	3.371005256735905e-16	car street train road turn hour minute station leave drive	no		yes	setting	no	
+Topic_27	-8.1786529143	3.01972286460088e-16	take place leave keep bring use away care bad set	no		no		no	
+Topic_28	-8.7624111132	2.0301698577992932e-18	lord duke lordship england castle majesty bishop st london gentleman	yes	theme	yes	setting	no	
+Topic_22	-8.831712997	1.1034853306649214e-18	time end happen work minute second keep eye hour lose	no		no		no	
+Topic_23	-9.1586894141	5.653416239989703e-20	house window street garden place leave live walk hear servant	no		yes	setting	no	
+Topic_45	-10.1824015412	2.6242579194451563e-24	monsieur mademoiselle fandor la st laugh juve chevalier hanaud ah	yes	theme	yes	setting	no	
+Topic_33	-10.3020470029	7.76536505238146e-25	captain ship officer deck nautilus master nemo board cabin mayo	no		no		no	
+Topic_8	-10.667779741	1.6266319391889775e-26	de la dat mme st court ter witt mademoiselle laurent	no		no		no	
+Topic_40	-10.782997909	4.827209802090593e-27	cry face fall stand arm away turn look mean shout	no		yes	style	no	
+Topic_13	-13.5744287515	7.771051760149911e-42	boat sea water ship deck island land sail vessel shore	no		yes	setting	no	
+Topic_34	-16.7656513746	9.046472233430032e-63	foot fire water tree side light rock white lie stand	no		yes	setting	no	
+Topic_19	-18.266599229	3.718036780444209e-74	thou thee thy hath master hast ti nay dost wilt	no		no		no	
+Topic_3	-21.5477880634	3.780202334645161e-102	door open light stand window close step wall lock floor	no		no		no	
+Topic_5	-22.1702839903	5.468450073744256e-108	sir gentleman master knight squire london inspector round ti matter	yes	theme	no		no	
+Topic_26	-29.2956961224	1.6599345659957168e-185	find place leave return eye hear bring discover sure follow	no		no		no	
+Topic_38	-29.9459012594	5.543439597542019e-194	reply return exclaim place leave continue remark add enter professor	no		yes	style	no	
+Topic_14	-37.9971407369	4.34112435674862e-309	general army order officer war soldier fight enemy fire force	no		no		no	
+Topic_32	-43.8977460388	0.0	earth light ship space air planet world power force work	no		no		no	
+Topic_20	-70.9811256066	0.0	case murder detective police death dead evidence crime fact body	no		no		no	

@@ -1,0 +1,51 @@
+topic_no	test_statistic	p-value	topic_words	interpretable?_BC	category_BC	interpretable?_JR	category_JR	interpretable?_phi4	category_phi4
+Topic_32	57.3389833952	0.0	earth light ship space air planet world power force work	yes	theme	yes	theme	yes	setting
+Topic_34	36.1344898577	1.4289787399270529e-255	foot fire water tree side light rock white lie stand	no		yes	setting	no	
+Topic_13	29.3921507871	1.0801876840101992e-175	boat sea water ship deck island land sail vessel shore	yes	setting	yes	setting	no	
+Topic_22	24.3209299292	2.904026613543381e-124	time end happen work minute second keep eye hour lose	no		no		no	
+Topic_7	22.9502749531	2.4913710392198344e-111	people city world white place talk country time crowd god	no		yes	setting	no	
+Topic_29	16.6047003475	1.8853969488797388e-60	life world live year dream soul death human die nature	no		yes	theme	no	
+Topic_14	13.1463983095	6.064658716133396e-39	general army order officer war soldier fight enemy fire force	yes	main character	yes	theme	no	
+Topic_36	12.5734982368	8.527025540199814e-36	fact matter mind mean quite course word question point reason	no		no		no	
+Topic_33	11.6593927083	4.693432013297436e-31	captain ship officer deck nautilus master nemo board cabin mayo	yes	main character	yes	setting	no	
+Topic_38	10.5353518147	1.0423027059476194e-25	reply return exclaim place leave continue remark add enter professor	no		no		no	
+Topic_41	10.5046844083	1.4110102930427446e-25	work book story read write york author year paper novel	no		no		no	
+Topic_26	9.6024460935	1.1196055374533562e-21	find place leave return eye hear bring discover sure follow	no		yes	theme	no	
+Topic_40	4.4510428527	8.704529871068004e-06	cry face fall stand arm away turn look mean shout	no		no		no	
+Topic_6	0.9633992908	0.3353883685	day morning week work hour hand month leave return evening	no		no		no	
+Topic_35	-0.6755774224	0.4993350449	doctor dr kennedy patient nurse case die call bed poor	yes	setting	no		no	
+Topic_1	-1.1157865053	0.2645568624	hand hold arm head stand turn finger draw foot shoulder	no		no		no	
+Topic_19	-2.2640431896	0.0236010343	thou thee thy hath master hast ti nay dost wilt	no		no		no	
+Topic_0	-2.3245192819	0.0201312317	little child quite sit sort away world presently side suddenly	no		no		no	
+Topic_27	-2.8352220469	0.0045942901	take place leave keep bring use away care bad set	no		no		no	
+Topic_15	-3.5311508064	0.0004168622	want right mean talk work course money away keep help	no		no		no	
+Topic_37	-4.197303559	2.73446298634983e-05	car street train road turn hour minute station leave drive	yes	setting	no		no	
+Topic_30	-7.3584819144	2.1038621494396362e-13	eye face smile voice turn head lip white glance stand	no		no		no	
+Topic_46	-7.8112830531	6.5213191778559946e-15	god heart word leave die death eye soul child speak	no		no		no	
+Topic_42	-7.9973957692	1.4436885966164285e-15	ye wi hill wad sit weel uncle fer folk ti	no		no		no	
+Topic_31	-10.1473584088	5.283070366532743e-24	give keep wish show bring order eye life send help	no		yes	theme	no	
+Topic_28	-10.804530512	5.162409114027572e-27	lord duke lordship england castle majesty bishop st london gentleman	no		no		no	
+Topic_21	-10.8544118558	3.3222127585078145e-27	night light sleep hour bed morning dark sit evening darkness	no		no		no	
+Topic_47	-11.7339671033	1.813149299903459e-31	hear speak voice word call sound listen talk silence mean	no		no		no	
+Topic_44	-11.9413104379	1.2624376958406235e-32	colonel officer gentleman take indian face pinto year herrick white	yes	main character	no		no	
+Topic_4	-11.9910709993	8.509489605674646e-33	feel away face leave want heart sit feeling mind walk	no		no		no	
+Topic_3	-12.1081014887	2.119858109929748e-33	door open light stand window close step wall lock floor	no		no		no	
+Topic_24	-12.3146248958	1.6474456183471432e-34	boy child uncle lad school big right brother rover call	no		no		no	
+Topic_16	-12.4705962017	2.7476534060903463e-35	girl daughter pretty heart sister away school take call dress	no		no		no	
+Topic_17	-13.2579680479	1.284541651616348e-39	old year big family poor age live ago remember white	no		no		no	
+Topic_9	-16.094119746	3.715595340515751e-57	woman wife husband child look call marriage beauty dress beautiful	on		no		no	
+Topic_18	-18.5794473893	2.604011496463923e-75	answer question speak continue turn remark exclaim word understand away	no		no		no	
+Topic_12	-18.9574260606	5.086278821120969e-78	look turn round walk sit stand wonder show notice glance	no		no		no	
+Topic_39	-20.0584409854	1.6047842101691962e-87	horse ride road saddle hill mile side turn pass head	no		no		no	
+Topic_8	-22.0430497823	1.0873441809396348e-105	de la dat mme st court ter witt mademoiselle laurent	no		no		no	
+Topic_43	-22.2179192575	8.687644337602045e-106	room table window chair leave bed hall sit floor enter	no		no		no	
+Topic_5	-22.6483560825	1.2530461354250692e-110	sir gentleman master knight squire london inspector round ti matter	no		no		no	
+Topic_11	-25.024775706	1.7014571101249743e-133	mother child daughter year sister wife little family live husband	no		no		no	
+Topic_10	-25.1916452035	3.451501302345789e-135	father daughter year money priest family brother wish church speak	no		no		no	
+Topic_2	-28.6437306918	3.178244657989767e-171	friend name money year meet gentleman call hand pay business	no		no		no	
+Topic_23	-29.256245363	6.869355677894526e-178	house window street garden place leave live walk hear servant	no		no		no	
+Topic_25	-29.6449361457	1.7299109779518387e-184	letter write read paper send word hand open take note	no		no		no	
+Topic_49	-31.1582368212	1.4861938122345364e-209	madame ah countess count newman french smile husband giles st	no		no		no	
+Topic_45	-32.8023871334	3.215376024849604e-232	monsieur mademoiselle fandor la st laugh juve chevalier hanaud ah	no		no		no	
+Topic_48	-36.3130917443	1.0290612296869952e-269	dear quite aunt course really smile laugh poor uncle mean	no		no		no	
+Topic_20	-39.4939922328	0.0	case murder detective police death dead evidence crime fact body	no		no		no	

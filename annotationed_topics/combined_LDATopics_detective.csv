@@ -1,0 +1,51 @@
+topic_no	test_statistic	p-value	topic_words	interpretable?_BC	category_BC	interpretable?_JR	category_JR	interpretable?_LV	category_LV	interpretable?_phi4	category_phi4
+topic_12	50.0119529593	0.0	sir case murder find take inspector evidence police holmes body 	yes	theme	yes	theme	yes	main character	yes	main character
+topic_6	42.4486620911	0.0	door room house open window light night look take stand 	yes	setting	yes	setting	yes	setting	yes	setting
+topic_47	36.3571028503	4.41439298322804e-273	london take find police leave sir day reply time hotel 	no		yes	setting	yes	main character	yes	setting
+topic_11	34.7284837795	8.11897750187419e-252	car take find time kennedy work office street right look 	no		yes	setting	yes	setting	no	
+topic_42	30.4346029117	4.6030238681483594e-195	little answer look hand take time declare sir remark room 	no		yes	theme	yes	main character	yes	setting
+topic_33	25.6389023899	1.00580453929112e-140	look find give house take room word hear eye leave 	no		yes	setting	yes	main character	yes	setting
+topic_0	22.522782106	7.32492941073095e-110	markham jones detective room murder find case call gubb night 	no		yes	theme	yes	main character	yes	main character
+topic_49	20.9930433164	6.27022729443543e-96	sir look take give money find woman leave murder quite 	no		yes	theme	yes	main character	no	
+topic_16	20.9874344823	7.9282788709477e-96	look answer sir find reply take want time turn give 	no		yes	theme	yes	main character	no	
+topic_7	18.9543566828	6.96665753382978e-79	take piers eaton time lupin house police give westerham duvall 	no		no		yes	main character	yes	main character
+topic_24	18.7020165577	7.441259324121219e-77	godfrey giles take father herrick look find money give murder 	no		yes	theme	yes	theme	no	
+topic_14	17.4173683548	4.6744895927889705e-67	cleek ste night sir hartley time verbeck little captain black 	no		no		yes	setting	yes	main character
+topic_4	15.9198322378	1.9024081957023998e-56	want stone find look mean room right fleming kill detective 	no		yes	theme	yes	main character	no	
+topic_1	11.2929745946	1.72683102467938e-29	look eye face take hand answer turn speak time word 	no		yes	theme	yes	main character	no	
+topic_43	9.3697513796	8.04220215911623e-21	time take day matter give fact find present case course 	no		yes	theme	yes	main character	no	
+topic_37	5.064197807	4.13762150379986e-07	old look take little want hand boy head right eye 	no		no		no		no	
+topic_3	3.4174202473	0.0006333173	doctor dr sir nurse patient take wint room bed right 	no		yes	setting	no		no	
+topic_9	1.7884399992	0.0737209239	book story author boy york life ii write novel work 	no		yes	style	no		no	
+topic_34	0.0361375938	0.9711730161	armstrong storm sin spargo girl old underwood maitland shaw nixon 	no		no		no		no	
+topic_21	-2.2511651448	0.0243848896	colonel smith wogan forbes amory tristram ballard hagar gilead sir 	no		no		no		no	
+topic_13	-4.9018303665	9.55248404116817e-07	de madame monsieur la mademoiselle little french ah day rue 	no		no		no		no	
+topic_27	-7.877397615	3.4598569014196305e-15	jurgen barker quite really saltash fisher look little talk wilkins 	no		no		no		no	
+topic_36	-10.5111642788	8.52833382773823e-26	ye old right de boy fer git dat take want 	no		yes	style	no		no	
+topic_20	-10.8130409747	3.3200669540260004e-27	croft hand woman citizen friend sir give chauvelin whilst hour 	no		no		no		no	
+topic_46	-12.8690045618	8.36746193200175e-38	horse ride trail ranch señor indian neale phantom camp san 	no		no		no		no	
+topic_45	-13.1457983462	2.26721405676332e-39	ye wi th lord take woman hear minister day time 	no		no		no		no	
+topic_18	-13.9541326449	4.38650947173558e-44	hand cry face eye stand arm head fall voice foot 	no		no		no		no	
+topic_35	-16.1250158565	3.41073961952737e-58	woman eye girl smile beautiful dress room play old white 	no		yes	main character	no		no	
+topic_48	-17.2579329525	2.09113257066678e-66	captain boat ship sea water deck sail take time board 	no		no		yes	setting	no	
+topic_29	-17.8270258403	1.28128600814697e-70	father heart woman hand day life mother face take word 	no		no		no		no	
+topic_2	-18.8095023633	2.10530621666055e-78	house old day road little year father walk look tree 	no		no		yes	setting	no	
+topic_8	-19.0300511629	3.45206202084471e-80	time reply warrior turn return find take cabot eye people 	no		no		no		no	
+topic_32	-20.4148885929	4.776345662620889e-92	work money business want company dollar people day take office 	no		yes	theme	yes	main character	no	
+topic_30	-20.8033615161	1.88851426038669e-95	countess count vittoria italian italy rome san visconti beppo speak 	no		no		no		no	
+topic_38	-20.9158913317	2.31115094765851e-96	island reply day sea harding take captain water time engineer 	no		no		yes	setting	yes	setting
+topic_10	-20.9556129389	1.40145626650271e-96	pan time give god take head zagloba hand eye kmita 	no		no		no		no	
+topic_41	-21.2208109822	3.62793578077645e-99	look take feel levin newman talk willoughby people give want 	no		no		no		no	
+topic_22	-21.6247941346	6.66597848458427e-103	little look want take girl time day dear old mother 	no		no		no		no	
+topic_17	-23.5697502712	8.24601547315794e-122	world time professor life earth human people find form mind 	no		no		no		no	
+topic_19	-25.4294881944	4.87816485162131e-141	water tree time find little rock fire day place foot 	no		no		no		no	
+topic_28	-25.4349728763	2.45898011879835e-141	war country people england government english take day american general 	no		no		no		no	
+topic_44	-26.4702018524	4.418183358658e-152	ship time take planet work space mind want screen kinnison 	no		no		no		no	
+topic_25	-28.243268392	2.7348695617982e-173	horse ride road take time saddle look hear turn leave 	no		no		no		no	
+topic_26	-28.7472198106	2.54812483919019e-179	air light earth foot mile ship little city machine speed 	no		no		yes	setting	no	
+topic_23	-30.5265849563	6.77852485847994e-201	de duke count monsieur st la answer mademoiselle sword countess 	no		no		no		no	
+topic_5	-40.3620004371	0.0	thou god thee thy priest day city lord people give 	no		no		no		no	
+topic_15	-41.4593206575	0.0	soldier officer general army colonel take fight order war captain 	no		no		no		no	
+topic_40	-41.6319418536	0.0	life woman feel world day eye heart mind face night 	no		no		yes	main character	no	
+topic_39	-45.2595893531	0.0	eye look hand face little white head stand voice light 	no		no		yes	main character	no	
+topic_31	-45.939877671	0.0	sir lord master thou take ti cry knight gentleman thee 	no		no				no	

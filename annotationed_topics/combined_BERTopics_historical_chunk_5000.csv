@@ -1,0 +1,653 @@
+topic_no	topic_zeta	topic_words	interpretable?_BC	category_BC	interpretable?_JR	category_JR	interpretable?_LV	category_LV	interpretable?_phi4	category_phi4
+1	0.0432805715	[de, monsieur, madame, la, mademoiselle, chevalier, comte, vicomte, mme, st]	yes	main character	yes	setting	yes	main character	no	
+8	0.0384656636	[cromwell, lord, sir, nance, oswald, england, knight, duke, castle, army]	yes	main character	yes	main character	yes	setting	yes	main character
+11	0.0216966443	[cæsar, vinicius, beric, rome, lygia, petronius, nero, thou, romans, thee]	yes	main character	yes	setting	yes	setting	yes	setting
+5	0.0204900526	[horse, horses, saddle, road, ride, mare, rode, rider, riding, animal]	yes	theme	yes	setting	no		no	
+6	0.0200006922	[pan, zagloba, kmita, volodyovski, hetman, swedes, hmelnitski, commonwealth, skshetuski, basia]	yes	setting	yes	setting	yes	main character	yes	setting
+17	0.0162752064	[indians, indian, iroquois, fort, chiefs, ohio, governor, timmendiquas, river, ne]	yes	main character	yes	setting	yes	setting	yes	setting
+32	0.0114248231	[troops, army, cavalry, vere, french, infantry, spaniards, siege, garrison, british]	yes	theme	yes	setting	yes	theme	yes	setting
+52	0.0093558711	[regiment, enemy, bracy, men, soldiers, guns, gedge, troops, rifles, officers]	yes	theme	yes	theme	yes	setting	no	
+16	0.0090365825	[señor, doña, gonsalvo, fray, brother, seville, god, alvarez, thou, losada]	no		yes	setting	yes	setting	yes	setting
+23	0.0085552573	[czar, russian, russia, semyonov, pavel, moscow, andreievitch, bohun, markovitch, petrovitch]	yes	setting	yes	theme	yes	theme	yes	main character
+48	0.0084299309	[de witt, witt, highness, mynheer, de, pensionary, grand pensionary, fagel, florent, bentinck]	no		no		yes	theme	no	
+29	0.0079554061	[vittoria, ammiani, barto, pericles, wilfrid, countess, merthyr, rizzo, barto rizzo, signorina]	no		no		no		yes	main character
+31	0.0073499285	[church, religion, god, priest, christ, monsignor, people, holy, lord, bishop]	yes	theme	yes	theme	yes	theme	no	
+84	0.0068706191	[army, grey, corps, artillery, division, general, blue, cavalry, brigade, troops]	yes	theme	yes	theme	yes	setting	yes	setting
+49	0.0059897844	[natásha, sónya, countess, moscow, vasíli, borís, anatole, márya, rostóvs, dmítrievna]	yes	setting	yes	theme	yes	style	yes	main character
+19	0.0055257315	[trees, valley, snow, hills, green, grass, sky, tree, mountain, water]	no		yes	style	yes	setting	no	
+43	0.005114637	[sir, captain, fool, ye, friend, word, gentleman, master, take, raffles]	no		no		no		no	
+60	0.0048213762	[tzin, cortes, hualpa, quetzal, montezuma, mualox, io, gods, guatamozin, palace]	no		yes	theme	yes	setting	yes	setting
+115	0.0046856387	[south, johnston, president, southern, army, richmond, confederacy, states, union, confederate]	yes	setting	yes	setting	yes	setting	yes	setting
+181	0.0046267218	[sword, blade, swords, weapon, evander, steel, fencing, swordsman, hilt, weapons]	yes	theme	yes	style	yes	setting	no	
+295	0.0043869619	[archers, men arms, arrows, knights, bowmen, bow, knight, arrow, aylward, arms]	yes	theme	yes	style	yes	setting	yes	setting
+64	0.0039772517	[hath, cyprus, fra, thou, piero, republic, giustiniani, senate, thee, paolo]	yes	setting	yes	style	no		no	
+202	0.0037766996	[chauvelin, blakeney, pimpernel, citizen, boulogne, sir blakeney, sir, citizen chauvelin, hebert, demmed]	no		yes	theme	yes	main character	yes	main character
+149	0.0037399893	[thorgils, howel, gerent, erpwald, morfed, thane, welsh, saxon, elfrida, danes]	no		no		yes	theme	yes	main character
+90	0.0035394372	[angélique, amélie, gardeur, bigot, intendant, corriveau, la corriveau, philibert, pean, de pean]	no		no		no		no	
+250	0.0033166783	[hur, simonides, ilderim, arrius, sheik, malluch, thou, jerusalem, balthasar, nazarene]	no	setting	yes	setting	yes	main character	yes	setting
+35	0.0033060567	[duke, highness, jester, majesty, fool, countess, castle, free baron, eyes, face]	yes		yes	theme	yes	theme	no	
+100	0.0032799681	[wogan, gaydon, oxford, misset, toole, ladyship, parson, scrope, innspruck, whittington]	no		yes	theme	no		no	
+243	0.0032620643	[rostóv, denísov, borís, emperor, berg, dólokhov, hussars, telyánin, regiment, horse]	no		yes	theme	yes	theme	yes	setting
+106	0.0032287544	[belshazzar, avil, babylon, atossa, marduk, bel, persian, imbi, jehovah, nabu]	no		yes	theme	yes	setting	yes	setting
+334	0.0031852437	[mahommed, emir, mirza, sultan, constantinople, thou, corti, lord, allah, lord mahommed]	no		yes	theme	yes	setting	yes	main character
+214	0.0031288244	[sergeant, bracy, soldier, colonel, soldiers, captain, officer, regiment, stich, rebel]	yes	setting	yes	theme	yes	setting	yes	main character
+92	0.0030606095	[rajah, scindia, holkar, bajee, abdool, peishwa, rao, poona, bombay, sufder]	no		yes	theme	yes	theme	yes	setting
+113	0.0030572093	[egremont, berwick, dicky, orlamunde, st germains, germains, lukens, de beaumanoir, madame de beaumanoir, beaumanoir]	no		no		yes	theme	yes	setting
+146	0.0030282022	[spaniards, cacama, aztecs, montezuma, malinche, mexicans, bathalda, cuitcatl, tezcuco, mexico]	yes	setting	yes	theme	yes	theme	yes	setting
+99	0.0030134882	[face, ducie, hand, eyes, arm, master, fool, word, turned, rage]	no		yes	style	no		no	
+0	0.0029484958	[boat, ship, captain, sea, deck, water, island, vessel, pencroft, shore]	yes	setting	yes	setting	yes	setting	no	
+101	0.0028378507	[nehushta, benoni, essenes, jews, domitian, romans, gallus, ithiel, saturius, jerusalem]	yes	setting	yes	setting	yes	setting	yes	setting
+287	0.0028054433	[kutúzov, moscow, army, russian, borodinó, french, battle, russians, smolénsk, russian army]	yes	setting	yes	theme	yes	theme	yes	setting
+293	0.0028011405	[bishop, prioress, knight, worcester, nun, seraphine, nunnery, father gervaise, gervaise, thee]	yes	main character	yes	theme	yes	theme	yes	setting
+147	0.0026774089	[visconti, scala, mastino, giannotto, graziosa, carrara, ligozzi, tomaso, este, isotta]	no		no		yes	setting	yes	setting
+208	0.0026406987	[alwin, olaf, sigurd, egil, jarl, thrall, kark, valbrand, wrestler, songsmith]	no		no		yes	setting	no	
+168	0.0025885823	[vaughan, flixton, brereton, sir, wetherell, vermuyden, cooke, bristol, chippinge, sibson]	no		no		no		no	
+142	0.0025493745	[veranilda, marcian, petronilla, totila, venantius, rome, heliodora, gothic, bessas, decius]	no		yes	setting	yes	setting	yes	setting
+543	0.002392333	[bourgeois, gardeur, dantin, romara, repaire, du repaire, beaufoy, colossus, de, burgomaster]	no		yes	theme	no		no	
+440	0.0023488223	[pesaro, cesare, cesena, lazzaro, biancomonte, messer, borgia, orsini, orca, cesare borgia]	no		no		yes	setting	no	
+138	0.002304409	[alixe, gerault, courtoise, crépuscule, thou, madame, st nazaire, nazaire, castle, flammecœur]	no		yes	theme	no		no	
+342	0.0022865052	[colburne, ravenel, colonel, orleans, captain colburne, louisiana, gazaway, whitewood, ravenels, doctor]	no		yes	setting	yes	setting	yes	setting
+253	0.0022207879	[nat, prentiss, cooper, revere, pennington, nat brewster, gage, abdallah, brewster, boston]	no		yes	theme	no		yes	main character
+144	0.002195181	[theria, nikander, dryas, eëtíon, baltè, delphi, apollo, pythia, melantho, oracle]	yes	setting	yes	setting			yes	setting
+355	0.0021550706	[aymar, laurent, la rocheterie, rocheterie, de fresne, fresne, de la rocheterie, de, de la, la]							na	
+414	0.0021439673	[parris, stevens, witch, witches, salem, goody, witchcraft, goody nurse, louder, nurse]							na	
+614	0.0021149602	[spaniards, spain, spanish, french, juntas, talavera, troops, musa, soult, holland]							na	
+255	0.0021149602	[callias, athens, athenian, hippocles, xenophon, socrates, spartans, alcibiades, spartan, sparta]							na	
+319	0.0020893533	[jurgen, says jurgen, anaïtis, koshchei, chloris, cocaigne, says, pseudopolis, leukê, satan]							na	
+437	0.00207825	[constantine, castriot, morsinia, kabilovitsch, amesa, turks, albanian, scanderbeg, albania, turkish]							na	
+175	0.0020338366	[mellis, valliant, swartz, de lisle, lisle, fulk, fulk de lisle, fulk de, falconer, woodmere]							na	
+159	0.0019613189	[erlend, lavrans, aashild, ragnfrid, ulvhild, arne, twas, eline, folk, jörundgaard]							na	
+308	0.0019613189	[brigham, brother brigham, zion, mormon, saints, salt lake, gentile, lord, prophet, salt lake city]							na	
+518	0.0019246087	[washington, colonel washington, president, colonel, dad, _grandpère_, governor, war, confederate, army]							na	
+193	0.0019101051	[ewen, ardroy, lochiel, windham, lachlan, captain windham, loch, guthrie, angus, loudoun]							na	
+294	0.0019067049	[laurent, aymar, perrelet, oiseleur, rocheterie, la rocheterie, de courtomer, courtomer, de la rocheterie, arbelles]							na	
+487	0.0018409876	[okoya, mitsha, hayoue, tyope, shyuote, koshare, zashue, koitza, shotaye, shiuana]							na	
+345	0.0018332845	[carew, thou, master player, thee, player, attwood, master, master carew, shakspere, thy]							na	
+442	0.0018255813	[thou, thee, thy, tsamanni, ayoub, hath, shalt, tisio, asad, allah]							na	
+210	0.0017786705	[apache, chiricahuas, geronimo, micky, apaches, chiricahua, scouts, che, general crook, general]							na	
+484	0.0017752703	[bonaparte, sannie, tant sannie, tant, boer woman, lyndall, boy, boer, hottentot, bonaparte blenkins]							na	
+122	0.0017743676	[sioux, valley, snow, buffalo, mountains, bright, rifle, warriors, conway, wagon]							na	
+50	0.0017614589	[kallikrates, egypt, pharaoh, noot, tenes, gods, goddess, ochus, amenartas, sidon]							na	
+212	0.0017240565	[saduko, macumazahn, mameena, umbelazi, panda, masapo, umbezi, cetewayo, nandie, zikali]							na	
+336	0.0017009472	[sword, blade, weapon, tipton, thrust, boucicault, amesa, issus, fought, attack]							na	
+426	0.0016984496	[moore, ivor, baron, denham, colonel baron, bitche, verdun, sir moore, coruña, wellesley]							na	
+483	0.0016984496	[peyrol, tartane, lieutenant, réal, toulon, scevola, escampobar, rover, sans culotte, culotte]							na	
+173	0.0016984496	[ogareff, irkutsk, strogoff, tomsk, tartars, grand duke, siberian, tartar, marfa, czar]							na	
+430	0.0016839461	[penn, leisler, drayton, quakers, dame drayton, quaker, governor, charter, andros, westland]							na	
+166	0.0016583392	[shoz, shoz dijiji, dijiji, geronimo, juh, ish nay, ish, apache, apaches, warriors]							na	
+148	0.0016139258	[calvert, azay, st aulaire, aulaire, madame de, lafayette, monsieur, de st, monsieur de, beaufort]							na	
+499	0.0015815185	[florent, quenu, la normande, normande, saget, mademoiselle saget, gavard, shop, pork shop, madame lecœur]							na	
+541	0.0015815185	[zulu, amabuna, dingane, tambusa, zulus, nkunkundhlovu, kraal, _nkose_, warriors, mameena]							na	
+493	0.001567015	[greusel, kurzbold, ebearhard, frankfort, assmannshausen, goebel, rhine, thalers, herr, herr goebel]							na	
+350	0.0015525114	[ivar, hjalmar, hjorvard, starkad, champions, odin, hersir, ships, yngvi, ketil]							na	
+346	0.001533705	[hermann, falbe, ashbridge, music, mother, baireuth, piano, germany, singer, munich]							na	
+451	0.0015269045	[sakr el, sakr, sakr el bahr, el bahr, bahr, asad, el, marzak, basha, thou]							na	
+357	0.0014645874	[prioress, reverend mother, reverend, sub prioress, mother sub, mother sub prioress, bishop, sub, lay sister, sister]							na	
+586	0.0014534841	[wetzel, col, lightfoot, clarke, henge, champe, morson, miller, cross eyes, master cross eyes]							na	
+391	0.0014389806	[tyope, tehuas, queres, shotaye, rito, topanashka, hayoue, tehua, chayan, puye]							na	
+645	0.0014389806	[czar, emperor, madame de, renoux, madame de salgues, salgues, de salgues, bonaparte, madame, wellington nephew]							na	
+365	0.0014389806	[thou, stafford, thy, thee, shrope, devereaux, lord shrope, lord stafford, lord, hath]							na	
+301	0.0014355803	[davey, conal, mcnab, schoolmaster, farrel, wirree, cattle, davey schoolmaster, davey davey, laughlin]							na	
+498	0.0014167739	[davy, mcchesney, kaintuckee, mill, ye, harrodstown, wrenn, dixon, reckon, danville]							na	
+626	0.0014099734	[eminence, wessex, everingham, cardinal, majesty, lord everingham, tudor, lord, glynde, duke wessex]							na	
+583	0.0013988701	[carew, raby, mistress, mistress carew, crabtree, henge, kimbolton, tis, wench, sir]							na	
+22	0.0013819298	[hair, face, beard, eyes, black, wore, nose, brown, figure, moustache]							na	
+593	0.0013510566	[guido, guardiola, de guardiola, nueva cordoba, cordoba, nueva, spanish, doña, amati, hermoine]							na	
+622	0.001336553	[deer, wolves, doe, dogs, ailie, beasts, wolf, beaters, buffalo, herd]							na	
+359	0.0013075459	[school master, boy, daws, snowball, dolph, bluegrass, school, whizzer, mammy, rube]							na	
+325	0.0012785388	[florian, melior, hoprig, janicot, puysange, de puysange, mélusine, brunbelois, saint, monsieur]							na	
+240	0.0012289199	[sword, blow, feet, lantern, siebold, altho, grip, lay, hanlon, stood]							na	
+369	0.0012162217	[thresk, ballantyne, hazlewood, pettifer, repton, bombay, captain ballantyne, baram, baram singh, beeding]							na	
+597	0.0011872146	[latour, vaillant, bishop, father latour, father vaillant, fé, olivares, father, durango, priests]							na	
+141	0.0011829117	[skelton, bulstrode, shapleigh, deerchase, pryor, alabaster, boy, conyers, blairs, newington]							na	
+575	0.0011761113	[calhoun, texas, polk, oregon, pakenham, zandt, england, mexico, ritz, war]							na	
+448	0.0011761113	[crow wing, halpen, crow, bolderwood, wing, harding, siah, yorkers, indian, lake]							na	
+620	0.0011616077	[de rothan, rothan, nance, durrell, benham, de, stook, stonehanger, chevalier, mees]							na	
+121	0.0011434935	[stone, walls, priests, marble, gold, city, ancient, palace, wall, pillars]							na	
+75	0.0011307953	[corona, san giacinto, giacinto, gouache, saracinesca, montevarchi, san, ilario, sant ilario, sant]							na	
+169	0.0011085886	[checco, matteo, girolamo, italy, italian, bartolomeo, sybert, filippo, orsi, colville]							na	
+609	0.0010702835	[sihamba, swallow, sigwe, zinti, piet, swart piet, bull head, swart, kaffir, umpondwana]							na	
+567	0.0010045662	[torn, montfort, de montfort, outlaw, shandy, bertrade, bertrade de montfort, bertrade de, castle, de]							na	
+632	0.0009934629	[marryott, rumney, barnet, hazlehurst, mistress hazlehurst, master marryott, coach, bottle, puritan, mistress]							na	
+316	0.0009712562	[bertrand, rixende, grandmama, deydier, ventadour, de ventadour, old madame, comtesse, tan, margaï]							na	
+361	0.0009601529	[godolphin, sir, rosamund, brother, tressilian, master, penarrow, baine, killigrew, master baine]							na	
+428	0.0009422491	[philippa, lessingham, griffiths, captain griffiths, cranston, felstead, hayter, dreymarsh, maderstrom, begged]							na	
+649	0.0008543251	[anny, gilbot, snedden, tant sannie, sannie, tant, old woman, nanna, goody, euonymus]							na	
+446	0.0007732016	[fish, levels, florent, meal, dishes, dish, gavard, ham, faunce, turkey]							na	
+62	0.0007643853	[life, world, self, mind, sense, power, knew, success, years, felt]							na	
+379	0.0007620983	[pigeon, bird, 8vo, pigeons, birds, pigeon pie, crown 8vo, demy 8vo, demy, nant]							na	
+39	0.0007471738	[wine, drink, bottle, glass, whisky, table, liquor, drinking, drunk, cupples]							na	
+528	0.000737394	[pertinax, thou, sir pertinax, thy, thee, rogue, fool, white lush, ye, sing]							na	
+263	0.0007040841	[cynthy, humphreys, maurus, naniescu, cluj, hódmezö, mother, wehle, dutchman, ujlak]							na	
+110	0.0007031814	[ebbo, herrick, ermentrude, eberhard, ingham, euyck, friedel, adlerstein, allister, mother]							na	
+171	0.0006673738	[cattle, herd, range, ranch, trail, beaver, beeves, herds, foreman, sargent]							na	
+503	0.0006315663	[mouraki, pasha, phroso, demetri, kortes, apafi, constantine, wheatley, neopalia, pavel]							na	
+74	0.000541837	[willoughby, laetitia, sir willoughby, middleton, crossjay, de craye, craye, dr middleton, mountstuart, whitford]							na	
+55	0.0004666112	[desert, arab, camels, rrisa, domini, sand, camel, arabs, allah, master]							na	
+496	0.000444615	[rope, haverly, end rope, chenobi, edge, ledge, end, weight, feet, bludsoe]							na	
+619	0.0004267112	[mcnamara, whitefield, glenister, fownes, wheaton, sheriff, jenney, stillman, governor, churchill]							na	
+538	0.0004045046	[cat, cats, mino, birkin, lifeship, kincher, hermione, florimel, woman, _douce]							na	
+58	0.000387293	[leycester, etheridge, lord leycester, adelstone, penfold, everard, naniescu, uncle, smile, eyes]							na	
+592	0.000335387	[fitzpiers, rosamund, charmond, endicott, winterborne, grammer, melbury, bunyan, curlie, sir godfrey]							na	
+489	0.0003097801	[tristram, boucicault, wickie, captain salt, fido, gaya, tris, toutou, salt, _l heureuse_]							na	
+524	0.000302077	[compton, asaph, hetty, th, pilcher, cat tail, dunne, _yakutat_, brinn, egerton]							na	
+444	0.0002918764	[drury, master drury, hayslope, dame coppins, coppins, captain stanhope, stanhope, mistress, grange, cavalier]							na	
+522	0.0002619666	[washington, vote, pauncefote, sir otho, otho, wandel, government, cent, verner, lord]							na	
+540	0.0002150557	[semaphore, wilcox, dumaresq, medical, medical woman, garde, sister, beaconsfield gardens, beaconsfield, müller]							na	
+599	0.0001817457	[captain, powell, trenchard, roberts, masterson, cortlandt, durst speak, marryott, trenholm, fyne]							na	
+560	0.000130532	[slept, tablets, eat tablets, diskos, gorge, eat, sleep, hours, slumber, wound thy]							na	
+474	0.0001194286	[richmond, sidenote, egremont, lukens, fanks, sands, blaney, fotheringay, readin, concerto]							na	
+233	0.0001126282	[tommasino, duke, bena, firmola, venusta, rilano, count, lord, wizard, syndic]							na	
+134	0.0001040224	[birkin, hermione, antan, loerke, really, snow, tab, pure, isn, wanted]							na	
+87	7.41126338047338e-05	[ye, dermod, hooper, inspector, alsop, slim, ewen, woman, beansho, morrison]							na	
+554	7.25177576134291e-05	[phroso, constantine, vlacho, kortes, demetri, neopalia, stefanopoulos, lord, island, spiro]							na	
+398	7.25177576134291e-05	[khan, kasam, dirrag, mekran, burah, agahr, vizier, burah khan, maie, persian]							na	
+561	5.80142060907433e-05	[conn, federation, poictesme, shanlee, fawzi, pomponio, computer, zareff, storisende, litchfield]							na	
+494	4.26079827061166e-05	[god, death, immortality, soul, oomphel, spirit, life, world, sorrow, heart]							na	
+376	2.49754805324554e-06	[_señorita_, caballero, senor, _señora_, senorita, rocha, rojerio rocha, rojerio, señora, señora vallejo]							na	
+247	-1.20060034694403e-05	[durrance, feversham, ethne, sutch, adair, willoughby, captain willoughby, lieutenant sutch, trench, halfa]							na	
+36	-1.56166909172032e-05	[haddon, sir, rutland, haddon hall, girl, crawford, peyton, leicester, aunt, father]							na	
+309	-1.88064432998129e-05	[nadara, thandar, flatfoot, thurg, korth, nagoola, cave, smith jones, ledge, burlinghame]							na	
+364	-2.65095549921262e-05	[arabella, christminster, alfredston, marygreen, wolverstone, levasseur, captain blood, blood, phillotson, cartlett]							na	
+209	-5.64193298994388e-05	[blessington, answers, says, sanson, lembken, craven, asks, rateau, lazaroff, kennard]							na	
+160	-9.65297645523098e-05	[pope, magnet, trafford, daffy, plessington, aunt plessington, wintersloan, rom, poole, buryhamstreet]							na	
+639	-9.90273126055553e-05	[maguire, stirling, catlin, costell, convention, delegates, chairman, vote, blunkers, caggs]							na	
+555	-0.0001101306	[yolara, rador, lakla, lugur, keefe, dwarf, shining, handmaiden, green dwarf, priestess]							na	
+585	-0.0001357375	[leighton, brux, cellette, lne, derl, lew, gosling, nelton, tuck, boy leighton]							na	
+603	-0.0001391377	[broadbrim, old broadbrim, riggs, demona, stareyes, ranch, macray, perth, detective, waters]							na	
+441	-0.0001613444	[stonor, imbrie, etzooah, breed woman, dug, river, gun, myengeen, rapids, breed]							na	
+405	-0.0001613444	[captain macdonnell, macdonnell, ranch, husband, ranch girls, professor, rainbow ranch, vive, rainbow, captain]							na	
+221	-0.0001622471	[aliette, brunton, cavendish, wilberforce, alie, de moulny, moulny, mother, wife, legal]							na	
+618	-0.0001647446	[old detective, lung, chinese, garshaski, leggett, chinamen, ah lung, detective, old, bradys]							na	
+512	-0.0001656473	[cyn, dish, la fleur, fleur, cook, dinner, potatoes, chicken, nattie, costanza]							na	
+556	-0.0001724477	[vinsen, dr vinsen, inspector robson, robson, keziah, inspector, piers, dr, nat, olwen]							na	
+633	-0.000175848	[pyramid, redoubt, night land, youths, mighty pyramid, spy glass, earth current, monsters, mighty, monstruwacan]							na	
+502	-0.000175848	[wells, socialism, human, constructive, ideas, personal, _the, individual, samurai, human nature]							na	
+553	-0.000175848	[coryon, monella, templemore, mellenda, dakla, zonella, sanaima, ulama, ergalon, hath]							na	
+264	-0.0001835511	[siegmund, sea, thordis, sigurd, siegmund looked, rosamund, siegmund felt, felt, ragnild, siegmund sat]							na	
+154	-0.0001844537	[denton, jennings, fairbanks, watkins, forbes, store, girls, girl, mag, manse]							na	
+569	-0.0001903515	[rainey, lund, carlsen, tamada, simms, hansen, skipper, _karluk_, hunters, yore]							na	
+104	-0.0001912542	[wint, kite, routt, hetty, gergue, hardiston, caretall, radabaugh, lutcher, congressman]							na	
+461	-0.0002014548	[theobald, barold, burmistone, slowbridge, bassett, eulogia, ladyship, poppleton, burnham, grandmamma]							na	
+588	-0.0002014548	[underwood, walcott, britton, ophir, pines, camp, partner, furley, business, office]							na	
+478	-0.0002014548	[tanar, stellara, korsar, korsars, sarian, fedol, cid, amiocap, gura, bohar]							na	
+456	-0.0002125582	[véronique, françois, stéphane, vorski, honorine, hergemont, maguennoc, sarek, véronique hergemont, priory]							na	
+279	-0.0002125582	[herriard, gastineau, hallamar, quickjohn, countess, campion, geof, dr hallamar, martindale, prosper]							na	
+463	-0.0002159584	[dampier, senator, poulain, madame poulain, poulains, saint ange, hôtel saint, hôtel saint ange, ange, madame]							na	
+634	-0.0002159584	[ruff, dory, fitzgerald, ruff nodded, brown, clenarvon, sillerton, remarked, count hern, hern]							na	
+283	-0.0002202613	[natachee, indian, edwards, sonora, lizard, mexican, pardners, cañon, outlaw, selby]							na	
+542	-0.0002236615	[sidenote, heyton, north, letter, crutches, simcox, daddy, died loving, mother, dead]							na	
+623	-0.0002270617	[hora, marven, commandatore, captain marven, meriel, lynton hora, lynton, flurscheim, challys, name marven]							na	
+468	-0.0002270617	[finnerty, sahib, swinton, moti, tiger, banjara, mahadua, elephant, jungle, bahadar]							na	
+591	-0.0002304619	[torry, grent, vass, leighbourne, hargone, wray house, detective, notes, mortality, killed grent]							na	
+420	-0.0002347648	[nakier, lugger, barque, tregarthen, hatch, ye, nielsen, nothen, boatmen, ship]							na	
+525	-0.0002415653	[pratt, raston, haverleigh, tempest, kilspindie, hale, marton, lord kilspindie, jeal, cup]							na	
+433	-0.0002415653	[tarrano, georg, wolfgar, brende, argo, jac, central state, barrage, cold country, earth]							na	
+417	-0.0002415653	[garrick, warrington, mcbirney, car, winslow, garage, gambling, dr mead, forbes, gambling joint]							na	
+497	-0.0002526686	[pollard, barrows, colwell, harrington, mill, barrows death, brother, mother, idiot boy, reparation]							na	
+480	-0.0002526686	[medenham, devar, vanrenen, marigny, fitzroy, simmonds, bristol, chauffeur, count edouard, edouard]							na	
+150	-0.0002569715	[maid, alway, mine, truly, lookt, mine arms, verity, kist, surely, afterward]							na	
+616	-0.0002671722	[kenelm, hermione, eyrle, lorriston, severn, aldenmere, kenelm eyrle, lord lorriston, leeholme, sir]							na	
+563	-0.0002671722	[miralda, barosa, sampayo, donnington, vasco, volheno, _stella_, _rampallo_, dagara, dr barosa]							na	
+598	-0.0002671722	[warrender, marlow, lestrange, beauchamp, thorold, sophy, phelps, rector, cicero, quiet gentleman]							na	
+482	-0.0002671722	[boller, wilkins, fry, hitchin, hobart hitchin, prentiss, hobart, vining, kid, trunk]							na	
+536	-0.0002671722	[nattie, quimby, cyn, clem, kling, magee, stanwood, wire, simonson, archer]							na	
+271	-0.0002689775	[dog, wint, muldoon, puppy, dogs, raut, hound, pup, tail, sabron]							na	
+410	-0.0002748753	[daney, laird, mckaye, port agnew, agnew, sawdust pile, sawdust, tyee, port, pile]							na	
+389	-0.0002816757	[jak, carver, pop, mom, boys, ship, control room, controls, mother, fuel]							na	
+574	-0.0002816757	[robot, 2615, pwowp, robots, humans, vilbis, freighter, metal fingers, metal, ship]							na	
+580	-0.0002816757	[roderic, beven, porto, san, spanish, yankee, captain beven, porfidio, plaza, spanish soldiers]							na	
+628	-0.0002816757	[pinkerton, proctor, donahue, robbery, susquehanna, reno, northampton, dunlap, gang, evans]							na	
+500	-0.0002816757	[cecala, morello, lupo, cina, giglio, calichio, boscarini, ortonello, counterfeit, comito]							na	
+602	-0.0002859786	[farm, acres, farmer, land, farming, segerson, crockford, barn, kingston, burtons]							na	
+590	-0.000292779	[dainty, lovelace, mammy, nieces, bride, wedding, craye, heart, lover, bernardini]							na	
+362	-0.000292779	[lovel, herne, chaskin, mexton, catinka, drek, jimboy, drass, barnstead, gran jimboy]							na	
+81	-0.0002979846	[helium, tar, jeddak, manator, sanoma, tul axtar, axtar, tul, gahan, tavia]							na	
+360	-0.0003013848	[bride, wedding, bridegroom, bridal, church, ceremony, bride bridegroom, marriage, married, guests]							na	
+509	-0.0003038824	[tregenna, langney, parson, parson langney, smugglers, tis, brigadier, nay, parsonage, sir]							na	
+464	-0.0003072826	[brilliana, halfman, evander, blaise, sir blaise, harby, master hungerford, hungerford, master, puritan]							na	
+627	-0.0003072826	[braceway, bristow, withers, morley, fulton, greenleaf, furmville, abrahamson, washington, atlanta]							na	
+596	-0.0003072826	[scriven, apperception, oona, cells, cortex, apperception center, semper, glideways, cephalon, gland]							na	
+615	-0.0003072826	[gresham, gamble, loring, collaton, washer, ersten, dollars, slosher, wobbles, terminal]							na	
+292	-0.0003090879	[heredith, room, dining, hall, table, dining room, guests, chairs, tea, tables]							na	
+427	-0.0003115855	[hirst, vere, ridley, steel, venables, flushing, husband, happiness, hewet, people]							na	
+515	-0.0003149857	[lubimoff, novoa, spadoni, casino, castro, duchess, villa, monaco, toledo, colonel]							na	
+225	-0.0003149857	[granny, simmons, old simmons, befort, wyman, waloo, riverside, martingale, cabot, cousin]							na	
+526	-0.0003183859	[macwilliams, langham, kirkland, burke, mines, clayte, olancho, palms, alvarez, weimer]							na	
+501	-0.0003183859	[varrick, gerelda, bain, northrup, frazier, captain frazier, gerelda northrup, varrick mansion, nurse, girl]							na	
+424	-0.0003183859	[deerfoot, shawanoe, shawanoes, carleton, ish, warrior, dinks, canoe, miami, mississippi]							na	
+641	-0.0003183859	[dimsdale, ball, siebold, team, cadets, woodcrest, gates, school, vench, goodhue]							na	
+539	-0.0003183859	[alcibiades, justinian, melnos, demarch, melnosians, caliphronas, crispin, tunnel, palisade, gurt]							na	
+604	-0.0003183859	[ivanta, agrando, fumenta, alondra, malto, _ivenia_, airships, kazzaro, malandris, armeath]							na	
+419	-0.0003183859	[fischer, lutchester, teyl, nikasti, schwerin, hastings, japan, germany, pocketbook, anglo french]							na	
+458	-0.0003183859	[rodgers, parsons, baird, craige, potter, penfield, aunt, sah, mclean, inspector]							na	
+397	-0.0003183859	[nixon, tork, mercutians, mercutian, wat, loto, gorts, orites, grim, earthmen]							na	
+511	-0.0003183859	[gifford, henshaw, kelson, morriston, wynford, tredworth, gervase henshaw, wynford place, dipper, morristons]							na	
+644	-0.0003294893	[mexican, josé, gonzalez, mustang, sambo, carib, senor, red head, spitler, ditini]							na	
+164	-0.0003303919	[neuburg, gatineau, heloise, siwash, gunning, seadon, méduse, squire, reys, cobalt]							na	
+605	-0.0003328895	[kildare, darrah, buchanan, sevier, rem, darrah brown, election, cake, possum, eyes]							na	
+565	-0.0003328895	[celie, dauvray, mme dauvray, vauquier, mlle celie, mme, wethermill, mlle, hanaud, commissaire]							na	
+635	-0.0003328895	[manton, kennedy, phelps, mackay, manton pictures, film, studio, kauf, tarrytown, pictures]							na	
+643	-0.0003328895	[barclay, tilghman, ito, patterson, mclane, ogden, norcross, shively, japanese, atlanta]							na	
+508	-0.0003328895	[haarland, marconi, jones, cavallo, planet, ship, halsey planet, joneses, longliner, halsey]							na	
+475	-0.0003328895	[langholm, minchin, steel, venables, severino, woodgate, crofts, morna, novelist, normanthorpe]							na	
+650	-0.0003328895	[gardiner, wilde, doctor gardiner, rogers, basket maker, moore, doctor, old basket maker, old basket, girl]							na	
+572	-0.0003405926	[pyramid, verity, diskos, utter, truly, land, mighty, mighty pyramid, redoubt, night land]							na	
+259	-0.0003414953	[colonel, pinto, stafford, lollie, crewe, boundary, judgment, colonel boundary, hanson, selby]							na	
+248	-0.0003439928	[durgan, claxton, beardsley, dolphus, hilyard, hermie, mulatto, durgan felt, hermione, deer]							na	
+297	-0.0003439928	[de medici, medici, ballau, dr lytton, lytton, norton, de, julien, theater, dr]							na	
+549	-0.0003439928	[hogarth, loveday, frankl, hara, colmoor, warder, quilter beckett, westring, quilter, beech]							na	
+551	-0.0003439928	[hatherly, gascoyne, _estremedura_, macallister, las palmas, palmas, africa, las, brown, trifle]							na	
+467	-0.0003439928	[mar, woodward, naturalist, mar men, dodge, lieutenant woodward, submarine, shore, car, boat]							na	
+449	-0.0003439928	[deede, deede dawson, dawson, dunn, dunsmore, clive, bittermeads, packing case, wreste, packing]							na	
+631	-0.0003439928	[beatrix, ritherdon, desolada, zara, carmaux, spranger, madame carmaux, belize, morello, ortonello]							na	
+418	-0.0003439928	[poubalov, litizki, strobel, hilman, spy, tailor, billings, palovna, vargovitch, pembroke]							na	
+400	-0.0003439928	[herrick, vayenne, lemasle, duke, dwarf, montvilliers, father bertrand, count, passey, bertrand]							na	
+517	-0.0003439928	[savine, thurston, musker, high maples, maples, vancouver, ranch, summers, cañon, rock]							na	
+408	-0.0003516959	[wolfenden, sabin, harcutt, deringham, blatherwick, lord wolfenden, ashbridge, densham, helène, watson]							na	
+393	-0.0003516959	[woodruff, school, bonner, county, district, colonel woodruff, colonel, bronson, county superintendent, rural]							na	
+206	-0.0003550961	[eaton, santoine, connery, latron, warden, blatchford, car, conductor, dorne, blind]							na	
+516	-0.0003550961	[phorenice, nais, atlantis, deucalion, empress, zaemon, gods, yucatan, tatho, sacred mountain]							na	
+303	-0.0003550961	[nash, trenholm, roberts, abbott, corbin, doctor roberts, sheriff, doctor nash, abbott lodge, sheriff trenholm]							na	
+304	-0.0003550961	[hawk, macvightie, butcher, lanson, wire devils, ladybird, car, selkirk, conmore, express car]							na	
+579	-0.0003550961	[saxe, music, abernethey, masters, osmund, miser, manuscript, thatcher, piano, measure]							na	
+302	-0.0003550961	[beresford, fleming, bat, detective, doctor, neily, gorder, alcove, blue print, courtleigh fleming]							na	
+28	-0.0003582251	[door, head, light, face, voice, room, feet, turned, open, hand]							na	
+546	-0.0003584964	[murphy, swamp, qualley, roberts, bateau, logs, raft, murphy exclaimed, darky, turpentine]							na	
+529	-0.0003584964	[miela, anina, mercer, tao, baar, lua, city, lone city, light country, water city]							na	
+471	-0.0003584964	[macartney, thompson, collins, charliet, caraquet, hutton, wilbraham, valenka, stope, dream girl]							na	
+589	-0.0003584964	[tallente, dartrey, miller, horlock, palliser, greening, hellesfield, party, article, prime]							na	
+505	-0.0003661995	[hapley, pawkins, moth, insect, pawkins pawkins, strange moth, butterfly, microscope, vicar, table cloth]							na	
+445	-0.0003695997	[reynolds, sconda, curly, big draw, klota, samson, daddy, indian, frontier samson, grizzly]							na	
+562	-0.0003695997	[meleager, arch priest, hierarchy, hiridia, arch, meleagrian, council, councillors, priest, members]							na	
+368	-0.0003695997	[naya, mo, samory, kouaga, goliba, kona, zomara, thou, thy, liola]							na	
+646	-0.0003695997	[burns, ellison, witham, colonel witham, mill, colonel, granny thornton, triffitt, thornton, stream]							na	
+97	-0.0003748053	[pe, florimel, ye, laird, wad, gien, dinna, lord, catanach, wi]							na	
+409	-0.000380703	[mainwaring, hobson, lagrange, attorney, fair oaks, thornton, sutherland, oaks, merrick, carleton]							na	
+372	-0.000380703	[farringdon, bateson, osierfield, hankey, tremaine, sedgehill, farquhar, willows, smallwood, thornley]							na	
+648	-0.000380703	[sedgwick, schlager, dennett, macfarlane, sheriff, trenter, sailor smith, richardson, iry, gansett]							na	
+617	-0.0003841032	[amory, connage, mellicent, yellowsands, vewy, starbright, gillespie, kiss, saville, dawson ryder]							na	
+636	-0.0003841032	[saton, rochester, naudheim, borrowdean, bertrand, beauleys, vandermere, saton smiled, champneyes, declared]							na	
+477	-0.0003841032	[tanith, harkaman, gram, trask, dunnan, makann, valkanhayn, marduk, bentrik, ships]							na	
+581	-0.0003841032	[sajipona, raoul, narva, leighton, cave, bogota, herran, quayle, palace, shei]							na	
+584	-0.0003841032	[trafford, matthewson, mcmanus, solomonson, dowd, millbank, wing, papers, rubber, murder]							na	
+606	-0.0003841032	[rebb, haskins, crosbie, geary, pixy house, pixy, berch, bellaria, durham, pelham odin]							na	
+136	-0.0003884061	[giles, toppie, vervier, madame vervier, maman, andré, madame, de maubert, monsieur de maubert, maubert]							na	
+570	-0.0003952066	[mummy, braddock, hervey, professor, bolton, random, vasa, peruvian, manuscript, emeralds]							na	
+638	-0.0003952066	[bowring, johnstone, fan, caiwarn, mother, santon, crosby, maraquito, amalfi, liked]							na	
+491	-0.0003952066	[ducie, platzoff, captain ducie, cleon, repos, bon repos, bon, captain, mulatto, loal]							na	
+394	-0.0003952066	[gebb, gilmar, ferris, alder, kirkstone, parge, prain, wedderburn, basson, grangebury]							na	
+520	-0.0003952066	[jimsy, honor, skipper, stepper, lorimer, yaqui, beat high, meter, team, stepfather]							na	
+396	-0.0003995095	[howe, howes, aunt, ain, melviny, webster, ee, bancroft, eggs, nothin]							na	
+545	-0.0004063099	[cuba, cuban, quesada, manada, hathaway, spanish, truenos, quinta, havana, rozinante]							na	
+403	-0.0004063099	[mazeroux, sauverand, fauville, weber, prefect, perenna, desmalions, monsieur préfet, préfet, levasseur]							na	
+550	-0.0004063099	[sutherland, sweetwater, webb, dr talbot, amabel, sutherlandtown, talbot, zabel, philemon, knapp]							na	
+401	-0.0004097101	[cayley, gillingham, pond, passage, ablett, key, key outside, door, cayley cayley, inspector]							na	
+624	-0.0004097101	[morrice, rosabelle, croxton, brookes, sellars, buckley, lettice, financier, deanery, deanery street]							na	
+479	-0.0004097101	[vall, verkan, tortha, karf, verkan vall, tortha karf, dalla, paratime, sector, salgath]							na	
+611	-0.0004097101	[frobisher, orchid, cardinal moth, moth, orchids, wedderburn, rootlets, lefroy, hafid, cardinal]							na	
+594	-0.0004097101	[bowen, tanagra, galvin, galvin house, peel, triggs, bonsor, wangle, lord bowen, meyfield]							na	
+577	-0.0004208135	[lavendar, pippin, dr lavendar, heywood, dr, zac, longfields, nadeshda, boy, dr gladwin]							na	
+321	-0.0004208135	[laverick, bellamy, morrison, streuss, behrling, document, mademoiselle idiale, idiale, declared, pocket book]							na	
+436	-0.0004208135	[cunningham, hull, olson, uncle, cattleman, paradox, fire escape, dry valley, harriman, yore]							na	
+557	-0.0004208135	[antrim, langford, judge, hobart, forsyth, harding, seeley, lord carabbas, chief clerk, carabbas]							na	
+229	-0.0004319168	[ferdy, jerce, horran, osip, zara, barras, clarke, ackworth, dumps, baird]							na	
+404	-0.0004319168	[stuyvesant, father mcgowan, mcgowan, pui, de pui, yuh, celie, madden, laing, twombly]							na	
+455	-0.0004319168	[winthrop, carew, senator carew, thornton, senator, colonel thornton, truxton, secretary, colonel, letter file]							na	
+625	-0.000435317	[challis, lewes, challis lewes, wonder, crashaw, child, stott, returned challis, child lewes, library]							na	
+384	-0.000435317	[crabingway, liston, bagg, girls, barrowfield, prior, sigglesthorne, chillington, chequertrees, inchmoor]							na	
+558	-0.000435317	[heger, mountain girl, mountain, abbott, sawyer, cabin, girl, mountain road, redfords, packard]							na	
+535	-0.000435317	[hastings, sloane, webster, brace, crown, sloanehurst, sheriff, judge, berne, berne webster]							na	
+640	-0.000435317	[winn, hutton, rockhaven, violin, ye, alhambra, island, norbith, winn hardy, stage]							na	
+613	-0.000435317	[magee, baldpate, bland, baldpate inn, peters, cargan, professor, mayor, norton, hermit]							na	
+600	-0.000435317	[aynesworth, wingrave, barrington, sir wingrave, sir wingrave seton, wingrave seton, lovell, seton, aynesworth declared, remarked]							na	
+533	-0.000435317	[katrine, dermott, ravenel, mcdermott, dulany, dermott mcdermott, de nemours, nemours, madame de nemours, rensselaer]							na	
+374	-0.000435317	[wyke, lemby, craver, vence, neddy, hedgerton, mellin, purse, sandal, maranatha]							na	
+621	-0.000435317	[cavor, selenites, selenite, sphere, cavern, fungus, goad, mooncalves, scrub, zz]							na	
+119	-0.0004396199	[jinnie, lafe, grandoken, cobbler, morse, maudlin, fiddle, merriweather, happy, jinnie grandoken]							na	
+527	-0.0004396199	[uncle, jervas, aunt, uncle jervas, peregrine, grandmother, exclaimed aunt, nephew, dear aunt, dear]							na	
+373	-0.0004430201	[wright, pluto, aunt, barrel, ballard, brewster, cat, returned, manning, island]							na	
+637	-0.0004430201	[larauche, ut, ee away, strangways, ee, macartney, sez, mcginity, ant ee, away away]							na	
+460	-0.0004464203	[nordenholt, nitrogen, area, nitrogen area, huntingtower, output, henley davenport, graphs, factories, flint]							na	
+343	-0.0004464203	[stangerson, rouletabille, darzac, larsan, mademoiselle stangerson, monsieur darzac, monsieur, monsieur stangerson, mademoiselle, yellow room]							na	
+453	-0.0004464203	[marlowe, manderson, cupples, bunner, murch, southampton, white gables, gables, car, saw manderson]							na	
+485	-0.0004464203	[jethro, romany, fawe, jethro fawe, fleda, druse, gorgio, ingolby, ry, rys]							na	
+278	-0.0004464203	[kendric, rios, barlow, escobar, ruiz, ruiz rios, ortega, castelmar, señor, twisty]							na	
+507	-0.0004464203	[gascoyne, lord gascoyne, sibella, grahame, hammerton, gascoynes, gascoyne family, hallward, hibbert wyllie, grent]							na	
+217	-0.0004464203	[kut, alchise, desert, indian, cartwell, trail, cesca, squaw, squaws, apache]							na	
+161	-0.0004491284	[heart, woman, life, loved, dance, fanning, knew, girl, felt, mother]							na	
+578	-0.0004575237	[acid, iron, sulphuric, sulphate, coal, engineer, harding, glycerine, sulphuric acid, azotic]							na	
+595	-0.0004575237	[giles, maman, toppie, ware, sir giles, _place_, felt, giles spoke, andré, cannes]							na	
+629	-0.0004609239	[bones, bellingham, thorndyke, finger, adipocere, ligaments, bone, thigh, skeleton, jellicoe]							na	
+504	-0.0004609239	[grimm, rodd, brodie, brinnen, poet, cresswell, letchowiski, ditchwater, declared, captain brinnen]							na	
+607	-0.0004609239	[steam, pomp, steam horse, reade, wagon, cowboys, reade jr, vigilants, savages, harmon]							na	
+548	-0.0004609239	[wenner, merival, coroner, soul, leese, life, _times_, wenner wenner, la menken, menken]							na	
+492	-0.0004609239	[ala, ingra, juba, car, air ship, caverns, earth, cloud dome, air, dome]							na	
+568	-0.0004609239	[burnett, simpson, gorman, cheatham, louisville, fitchet, burnett burnett, fauntleroy, dulaney, linden]							na	
+534	-0.0004652268	[train, station, car, engine, ticket, callahan, passenger, conductor, passengers, fireman]							na	
+223	-0.000468627	[caliphronas, justinian, crispin, melnos, greek, roylands, andros, alcibiades, demarch, count]							na	
+378	-0.0004720272	[duvall, baker, ford, apartment, stapleton, hotel, woman, photograph, fire escape, detective]							na	
+582	-0.0004720272	[keeban, scofield, fanneal, crewe, win scofield, old win, worth, kite, win, winton]							na	
+521	-0.0004720272	[storm, horton, holworthy, greenlea, burrell, bag, storm laughed, homachi, mallett, trip]							na	
+285	-0.0004720272	[custer, pennington, crumb, ganado, custer pennington, penningtons, colonel, apache, jackknife, cañon]							na	
+289	-0.0004720272	[lish, jip, amateur, jip collins, fernald, department, fireman, fellers, master roberts, collins]							na	
+415	-0.0004720272	[archer, olenska, madame olenska, luyden, der luyden, der, newland, beaufort, mingott, countess olenska]							na	
+265	-0.0004831306	[arkwright, greggory, aunt, calderwell, operetta, hartwell, henshaw, neilson, music, dear]							na	
+241	-0.0004831306	[devlin, skippy, lemon, frost, dowsett, kid, hah, conne, ain, yeah]							na	
+402	-0.0004865308	[fentolin, hamel, dunster, meekins, sarson, doctor sarson, kinsley, nikasti, teyl, fentolin continued]							na	
+466	-0.0004865308	[carrados, carlyle, parkinson, creake, hollyer, manager, draycott, hutchins, wynn, exclaimed carlyle]							na	
+481	-0.0004865308	[hanaud, calladine, carew, semiramis, wethermill, favart, hanaud looked, semiramis hotel, opera, clements]							na	
+447	-0.0004865308	[ramage, miniver, morningside park, capes, morningside, vee, aunt, manning, palsworthy, father]							na	
+523	-0.0004865308	[farnsworth, blaney, fairfield, chick, hamilton, reypen, billee, little billee, hartleys, lovely]							na	
+587	-0.0004865308	[ruddington, gibson, lord ruddington, sainte véronique, traxelby, grandpont, letter, lord, sainte, véronique]							na	
+495	-0.0004865308	[flexen, loudwater, manley, lord loudwater, hutchings, colonel grey, roper, carrington, twitcher, lord]							na	
+544	-0.0004865308	[maraton, foley, selingman, graveling, labour, henneford, sheffield, maraton admitted, maraton shook, parliament]							na	
+439	-0.0004874335	[money, ayoub, monson, kirkstone, cater, lewisham, tsamanni, woodhouse, thrift, debt]							na	
+331	-0.0004942339	[stair, raincy, ferris, eben, mcclure, cairn ferris, bothy, whitefoot, cairn, blairmore]							na	
+506	-0.0004976341	[pikey, girlie, cass, montagu, jupp, trenchard simpson, trenchard, montagu jupp, minever, clavering park]							na	
+399	-0.0004976341	[darrow, sophy, viner, sophy viner, leath, givre, madame de, step mother, farlows, step]							na	
+234	-0.0005053372	[_cumbria_, texas, funnel paint, worth, launch, funnel, winch, canarios, oil, deck]							na	
+459	-0.0005087374	[cat, dog, collie, smoke, dr silence, flame, paws, animals, silence, carpet]							na	
+222	-0.0005087374	[mayo, captain mayo, candage, marston, captain candage, captain, fogg, schooner, skipper, wass]							na	
+275	-0.0005121377	[maskull, krag, nightspore, corpang, haunte, oceaxe, sullenbode, joiwind, tydomin, panawe]							na	
+601	-0.0005121377	[walthew, gomez, grahame, cliffe, sarmiento, rio frio, frio, castillo, señor, president]							na	
+423	-0.0005121377	[julien, kendricks, freudenberg, herr freudenberg, herr, sir julien, christophor, madame christophor, mademoiselle, carraby]							na	
+367	-0.0005121377	[schlichten, kankad, kragans, konkrook, keegark, contragravity, geeks, kragan, zangwe, terran]							na	
+462	-0.0005121377	[hale, richards, ferguson, latimer, tuesday night, bonds, tuesday, mclane, detective ferguson, brother]							na	
+564	-0.0005121377	[miko, snap, molo, grantline, haljan, moa, venza, wandl, coniston, hahn]							na	
+390	-0.0005121377	[ransford, mitchington, braden, brake, wrychester, collishaw, harker, glassdale, bewery, dr ransford]							na	
+370	-0.0005130403	[snake, snakes, tharban, reptile, venom, ye, serpent, demetrios, cobra, basto]							na	
+307	-0.0005173432	[_q, _a, banfi, woman, quest, door, halliwell, saw, voice, apafi]							na	
+547	-0.0005198408	[rosevelt, satchell, mistress satchell, sherbrooke, gladstone, prelice, mistress, rover, beauty, brilliana]							na	
+277	-0.000523241	[birchill, holymead, rolfe, crewe, fewbanks, riversbrook, sir fewbanks, hill, chippenfield, inspector chippenfield]							na	
+559	-0.000523241	[weatherley, chetwode, fane, hastings, calvert, mandeville, sloane, reporter, weatherley continued, business]							na	
+443	-0.000523241	[hunterleys, draconmeyer, selingman, drexley, grex, douaille, coulois, roche, declared, hunterleys remarked]							na	
+256	-0.0005275439	[nap, carfax, capper, zu, baronmead, penruddocke, seraph, isn, waring, master]							na	
+178	-0.0005343443	[siméon, essarès, ya bon, ya, bon, belval, masseron, old siméon, essarès bey, captain belval]							na	
+432	-0.0005377445	[cheyne, dangle, speedwell, french, blessington, price, sime, earlswood, flask, lodge]							na	
+381	-0.0005377445	[bobo, cleaver, evers, poor bobo, madagascar, robinson, culbreth, delamare, stetson, gyde]							na	
+380	-0.0005377445	[dodo, hughie, berts, mama, ayr, darling, waldenech, dear, double bass, chesterford]							na	
+610	-0.0005377445	[pauly, dr lorry, st, chichester, lorry, lisle, sir algernon, vicar, algernon, seaton]							na	
+510	-0.0005377445	[keane, esmond, estrange, cousin, southleigh, elsinore gardens, elsinore, murchison, pomfret, blankfield]							na	
+377	-0.0005377445	[murgatroyd, challoner, thorne, prosecutor, pemmican, mixley, hargraves, mcgrath, cradlebaugh, bloodgood]							na	
+452	-0.0005377445	[bowen, colville, veglione, wish, girl, going bowen, carnival, amsden, palazzo pinti, pinti]							na	
+531	-0.0005377445	[gillett, crewe, marsland, westaway, lumsden, sergeant westaway, detective gillett, sergeant, staveley, farm]							na	
+573	-0.0005377445	[landis, arrow, bow, stimson, mount, cross bow, gallery, japanese, library, shoot]							na	
+566	-0.0005377445	[hartley, vyner, trimblett, captain, captain trimblett, willett, gustave, chinnery, walters, ste]							na	
+630	-0.0005377445	[crippen, corson, binney, buns, prall, bates, vail, bun, sir binney, gibbs]							na	
+238	-0.0005454477	[nah, ee lah, nah ee, nah ee lah, lah, laythe, ko tah, ee, kalkars, tah]							na	
+324	-0.0005488479	[forbes, finch, hephzibah, diggs, hephzibah diggs, phemie, doolittle, merceron, marland, letter]							na	
+353	-0.0005488479	[garvington, greeby, lambert, pine, chaldea, silver, lord garvington, gypsy, jarwin, manor]							na	
+421	-0.0005488479	[welwyn, tilly, dicky, carmyle, stillbottle, mainwaring, enquired, grandma, milroy, pumpherston]							na	
+190	-0.000556551	[ostrog, council, council house, asano, shouting, sleeper, tramp tramp, tramp, tramp tramp tramp, perceived]							na	
+290	-0.000556551	[penhallow, rivers, aunt, mcgregor, uncle, squire, mills, grey pine, westways, grey]							na	
+198	-0.000556551	[mather, pease, harmon, fenno, colonel, blanchard, chebasset, mill, jenks, father]							na	
+244	-0.0005599512	[hale, judd, tolliver, bub, lonesome cove, red fox, lonesome, hon, mountaineer, thar]							na	
+291	-0.0005599512	[prelice, shepworth, jadby, chent, agstone, rover, captain jadby, blexey, lord prelice, martaban]							na	
+306	-0.0005633514	[lucian, vrain, ferruci, denzil, wrent, berwin, link, jorce, jersey street, clyne]							na	
+647	-0.0005633514	[fanshawe, gifford, erskine, sparling, rhodes, holidays, grumble, farnborough, week, staff room]							na	
+385	-0.0005633514	[rawlins, pauling, submarine, henderson, boys, sub, radio, smernoff, diver, declared rawlins]							na	
+386	-0.0005633514	[gerhardt, bass, brander, senator, mother, child, family, kane, cincinnati, neighbors]							na	
+530	-0.0005633514	[underwood, selby, dr underwood, bussey, hadley, dr, watson, high ridge, ralston, dr pye]							na	
+457	-0.0005633514	[japanese, manila, parrington, _mindoro_, japan, pacific, fleet, ships, american, squadron]							na	
+469	-0.0005633514	[cotherstone, mallalieu, brereton, kitely, harborough, stoner, highmarket, pett, bent, norcaster]							na	
+310	-0.0005744548	[mills, shep, shepherd, storrs, henderson, laconia, freemans, whitford, shepherd mills, deer trail]							na	
+318	-0.0005744548	[aylmer, keys, sharston, sukey, aylmer court, franks, little mummy, court school, girl, mother]							na	
+298	-0.0005744548	[grizel, elspeth, corp, pym, sandys, gemmell, den, gavinia, glove, thrums]							na	
+612	-0.0005744548	[sir hervey, hervey, unwin, pogram, lakeman, chalkhill, winthrop, watkyns, coke, sir]							na	
+170	-0.0005821579	[powell, captain, mate, poop, _ferndale_, ship, smith, captain wife, deck, skylight]							na	
+305	-0.0005855581	[godfrey, delahaye, archduchess, feurgéres, greatson, mabane, monsieur feurgéres, waldenburg, child, grooten]							na	
+185	-0.0005855581	[trevlyn, pendrill, fitzgerald, haddon, husband, lord trevlyn, sir fitzgerald, lord haddon, heart, happy]							na	
+438	-0.0005889583	[hickey, socotra, de socotra, flivver, tripp, cab, estuban, de, stickney arms, stickney]							na	
+608	-0.0005889583	[nanny, babbie, egyptian, gypsy, dishart, minister, thrums, lassie, th, ay]							na	
+411	-0.0005889583	[bathsheba, boldwood, liddy, oak, weatherbury, everdene, farmer, coggan, farmer boldwood, casterbridge]							na	
+486	-0.0005889583	[dolphin, stanhope, pomp, captain uriah, uriah, whale, boat, inventor, submarine boat, submarine]							na	
+454	-0.0005889583	[alexey, alexey alexandrovitch, alexandrovitch, seryozha, stepan arkadyevitch, arkadyevitch, stepan, vronsky, divorce, position]							na	
+392	-0.0005889583	[kane, cincinnati, chicago, brien, married, social, stendahl, business, dodge, gerhardt]							na	
+224	-0.0005889583	[claudius, barker, duke, dr claudius, screw, countess, skeat, heidelberg, doctor, lindstrand]							na	
+354	-0.0005889583	[gubb, philo gubb, philo, deteckative, getz, medderbrook, detective gubb, detective, syrilla, gribble]							na	
+388	-0.0005889583	[merriman, hilliard, coburn, syndicate, props, _girondin_, ferriby, smuggling, bordeaux, beamish]							na	
+356	-0.0005889583	[silwood, eversleigh, bennet, thornton, williamson, westgate, silwood dead, ivydene, higginson, father]							na	
+642	-0.0005889583	[ostrander, judge ostrander, reuther, judge, scoville, fentiman, etheridge, father, ferrier, black]							na	
+284	-0.0005889583	[rand, rivers, fleming, goode, dunmore, collection, varcek, gresham, pistols, mckenna]							na	
+395	-0.0005889583	[warne, jimps, channing, father davy, davy, father, crofton, boarder, guest, village]							na	
+300	-0.0006000616	[granger, spurling, strangeways, keewatin, beorn, eyelids, forbidden river, huskies, river, père]							na	
+329	-0.0006000616	[lingard, travers, alcacer, jorgenson, hassim, jaffir, belarab, immada, tengga, brig]							na	
+366	-0.0006000616	[ravenal, parthy, hawks, _cotton, _cotton blossom_, blossom_, show boat, schultzy, river, boat]							na	
+344	-0.0006000616	[phyl, pinckney, pinnegar, hennessey, grangerson, vernons, ciccio, charleston, kilgobbin, woodhouse]							na	
+375	-0.000611165	[felsen, herr, ziegler, borsen, bastable, schlegel, strauss, herr bastable, hagar, dormund]							na	
+431	-0.0006145652	[embury, hendricks, alvord, fifi, ames, fibsy, aunt, stone, driscoll, desternay]							na	
+313	-0.0006145652	[collingwood, pratt, mallathorpe, eldrick, nesta, barford, byner, parrawhite, normandale, bartle]							na	
+406	-0.0006145652	[ide, withee, pulaski, castonia, macleod, woods, rodburd, rodburd ide, timber, umcolcus]							na	
+513	-0.0006145652	[horatio, sybert, currier, hortie, eleazer, borden, vont, pash, jewels, sheriff]							na	
+383	-0.0006145652	[droop, copernicus, ye, copernicus droop, ef, jest, hev, pole, thet, panchronicon]							na	
+552	-0.0006145652	[stubbs, shears, lupin, danbury, holmlock, benker, arsène lupin, arsène, holmlock shears, destange]							na	
+348	-0.0006188681	[swingley, texan, hoog, ballaston, endacott, milt, average jones, livius, jones, caldwell]							na	
+281	-0.0006256685	[morley, giles, denham, ware, steel, parry, rickwell, asher, karacsay, benker]							na	
+232	-0.0006256685	[spargo, breton, marbury, aylmore, elphick, rathbury, cardlestone, myerst, maitland, _watchman_]							na	
+315	-0.0006265712	[bayard, pepper, ridley, play, dalloway, glenister, beaumerville, struve, face, hamadryad]							na	
+272	-0.0006367719	[lyon, broughton, fullerton, wolcott, howell, bede, cane, vanderburg, hemlock avenue, prout]							na	
+472	-0.0006401721	[smith evered, evered, bindane, lord, barthampton, benifett, lord barthampton, smith, el hamrân, hamrân]							na	
+488	-0.0006401721	[quest, professor, macdougal, french, quest declared, rheinholdt, quest remarked, remarked, professor quest, inspector]							na	
+465	-0.0006401721	[androvsky, domini, desert, tent, trevignac, priest, de trevignac, sand, anteoni, beni]							na	
+576	-0.0006401721	[brouillard, cortwright, railroad, niquoia, mirapolis, dam, massingale, plegg, reclamation service, government]							na	
+571	-0.0006401721	[print, thumb, prints, thumb print, finger, finger print, hornby, thorndyke, prisoner thumb, finger prints]							na	
+470	-0.0006401721	[jellicoe, bellingham, testator, hurst, disappearance, remains, thorndyke, scarab, evidence, alive]							na	
+251	-0.0006487779	[cave, ab, mammoth, beast, rhinoceros, bearwarden, ayrault, tree, bear, tiger]							na	
+261	-0.0006512754	[tropenell, pavely, godfrey, katty, godfrey pavely, st amant, amant, gillie, lord st amant, lord st]							na	
+116	-0.0006589785	[newman, bellegarde, de bellegarde, madame de, cintré, de cintré, madame de cintré, madame de bellegarde, madame, de]							na	
+416	-0.000665779	[maunders, hest, towton, corsoon, dimsdale, diabella, colonel, bedge, spider, colonel towton]							na	
+299	-0.000665779	[barthorpe, herapath, tertius, burchill, selwood, halfpenny, barthorpe herapath, wynne, triffitt, raythwaite]							na	
+258	-0.000665779	[glanedale, sir lyster, alf pond, lyster, doulton, inspector, tims, alf, burns, pond]							na	
+312	-0.000665779	[fan, tung, ainsleigh, hwei, forge, tidman, keong, lo keong, wharf, burgh]							na	
+333	-0.000665779	[tavernake, pritchard, professor, dowling, declared, gardner, wenham, sister, wenham gardner, grier]							na	
+145	-0.0006666816	[lallie, clonmell, ballinger, signorina, bevan, adriance, wentworth, emileen, wilder, johns]							na	
+246	-0.0006675843	[sleep, darkness, soames, haendl, bed, asleep, sound, lay, light, muldoon]							na	
+434	-0.0006768823	[cortlandt, runnels, panama, locke, alfarez, colonel jolson, jolson, garavel, colon, cortlandts]							na	
+235	-0.0006768823	[muller, commissioner, graumann, thorne, amster, langen, detective, siders, bernauer, police]							na	
+254	-0.0006811852	[warden, cipher, cryptogram, thinking machine, cell, letters, keyword, alphabet, machine, cell 13]							na	
+184	-0.0006879856	[dr hartwell, hartwell, asbury, guardian, charon, dr, dr asbury, child, orphan, countenance]							na	
+182	-0.0006879856	[gray, wusun, wu, delabar, wu fang, fang chien, wu fang chien, fang, chien, gela]							na	
+139	-0.000689791	[cards, game, hough, gambler, gambling, durade, glenister, bet, neale, card]							na	
+273	-0.0006913858	[phillotson, arabella, christminster, marygreen, edlin, shaston, alfredston, melchester, school, fawley]							na	
+413	-0.0007024892	[frink, ogden, lumbard, grimshaw, adèle, farrandale, grandpa, stanwood, colonel, ally]							na	
+220	-0.0007024892	[loveman, grayson, cordova, gilmore, mordona, little lawyer, gardner, plan, uncle, grantham]							na	
+422	-0.0007024892	[containing, tricks, illustrated, containing full, book, fully illustrated, full directions, little book, full instructions, complete]							na	
+339	-0.0007024892	[rawson, smithy, loah, gor, flame, mole men, culver, red, rock, mole]							na	
+219	-0.0007024892	[hilliston, tait, larcher, bezel, paynton, jeringham, linton, horriston, captain larcher, bantry]							na	
+191	-0.0007024892	[dawson, sheep, heth, baxter, vb, ramsey, supervisor, cañon, dugan, trail]							na	
+227	-0.0007135925	[branwin, shawe, toat, badoura, madame, mellop, pink shop, shop, sanby, vail]							na	
+276	-0.0007169927	[pollard, gleason, prescott, belknap, zizi, davenport, manning pollard, manning, doctor davenport, wise]							na	
+280	-0.0007169927	[byrd, orcutt, hickory, mansell, ferris, clemmens, hildreth, dare, district attorney, attorney]							na	
+317	-0.0007169927	[mahars, sagoths, ghak, pellucidar, hooja, phutra, mahar, sagoth, arena, slaves]							na	
+207	-0.0007169927	[harkness, schwartzmann, kreiss, walt, bullard, pilot, towahg, ship, spud, ape]							na	
+412	-0.0007169927	[school, radway, harrington, lib, bible, aunt, meadow, church, bible school, superintendent]							na	
+252	-0.0007169927	[cartwright, lister, shillito, huxham, duveen, hyslop, montgomery, pence, durgo, mortimer]							na	
+322	-0.0007169927	[secret agent, fuller, okiu, dr morse, agent, warwick, morse, drevenoff, karkowsky, secret]							na	
+311	-0.0007169927	[ricker, ranch, cowboys, macnutt, ricker ranch, halfbreed, tex, trader post, cowboy, ranch owner]							na	
+269	-0.0007169927	[nixon, derwent, nixie, salter, pogram, captain salter, returned, girl, waitress, madama]							na	
+382	-0.0007169927	[bassett, livingstone, norada, donaldson, ranch, carlysle, wasson, melis, jud, vyner]							na	
+327	-0.0007169927	[burnit, trimmer, applerod, sharpe, brightlight, jolter, biff, stock, _bulletin_, business]							na	
+231	-0.0007221983	[askew, kaimes, berring, jimsy, canvey, pentland, husband, duke, osterhaut jowett, talk]							na	
+429	-0.0007280961	[murchison, pomfret, blankfield, rosemount, captain murchison, davidson, brother, quite, friend, course]							na	
+133	-0.0007280961	[cabot, ant, cupia, cupian, poblath, formians, cupians, toron, kuana, doggo]							na	
+490	-0.0007280961	[copeland, binhart, ottenheim, doctor west, westville, chair, boy, figure, brown, _salon_]							na	
+340	-0.0007280961	[delaney, stockbridge, nichols, morphy, chief, operative, fosdick, gramercy hill, harrigan, gramercy]							na	
+197	-0.000732399	[verny, furley, travers, winthrop, ritherdon, abbeway, fenn, stenson, waring, town hall]							na	
+532	-0.0007391994	[millions, ryder, stock, railroad, market, rates, hearst, money, prices, business]							na	
+425	-0.0007391994	[slade, beecher, mckenna, kildair, gunther, trendon, majendie, barnett, appleyard, ring]							na	
+10	-0.000742478	[hair, dress, beauty, eyes, white, woman, beautiful, face, hat, black]							na	
+151	-0.0007503027	[greenfield, worth, basin, holmes, company, engineer, kingston, surveyor, desert, seer]							na	
+286	-0.0007623087	[door, room, open, stairs, bed, lamp, key, light, opened, window]							na	
+239	-0.0007648063	[pasmer, mavering, brinkley, munt, saintsbury, mother, cotton, boardman, class day, girl]							na	
+337	-0.0007682065	[cytherea, manston, aldclyffe, springrove, graye, raunham, knapwater, carriford, rector, steward]							na	
+323	-0.0007682065	[landis, ogden, barclay, mount, patterson, stimson, mclane, japanese, norcross, takasaki]							na	
+326	-0.0007682065	[monella, peterssen, dr peterssen, seaton, braham, templemore, paget, carenna, madame lambert, matava]							na	
+242	-0.0007793098	[aimée, gowan, griffith, grif, macdowlas, phemie, bloomsbury place, chandos, bilberry, vagabondia]							na	
+249	-0.0007793098	[devine, saxton, allonby, trifle, dollars, dayspring, ranch, drily, canopus, quite]							na	
+218	-0.0007793098	[duvall, stapleton, hartmann, lefevre, dufrenne, monsieur lefevre, lanahan, seltz, monsieur, snuff box]							na	
+216	-0.0007793098	[maryon, rooke, trenby, maryon rooke, mallow, lord st, trenby hall, st, mcbain, hallemeier]							na	
+205	-0.0007904132	[beatrix, larpent, keene, vanderdyke, honoria, _galatea_, aunt honoria, brownie, fraser, yacht]							na	
+177	-0.0007938134	[hetherwick, matherfield, riversreade, hannaford, baseverie, mapperley, penteney, granett, sellithwaite, madame listorelle]							na	
+183	-0.0007938134	[rouletabille, koupriane, matrena, annouchka, gounsovski, trebassof, feodor, monsieur, matrena petrovna, nikolaievitch]							na	
+351	-0.0007938134	[schuyler, carleton, fessenden, dupuy, schuyler carleton, maddy, benson, coroner, fairbanks, sisters]							na	
+473	-0.0008015165	[sky, earth, crystals, flame, space, snow, crater, professor, light, cone]							na	
+514	-0.0008049167	[barker, claudius, mally, whitehall, westcott, screw, office, ford, leverage, silvaris]							na	
+435	-0.0008049167	[ustane, thou, billali, _she_, job, kallikrates, thee, amahagger, mother gutch, baboon]							na	
+335	-0.0008126198	[franks, aylmer, _argonaut_, manuscript, story, franka, girl, write, read, keys]							na	
+162	-0.00081602	[westerham, melun, lord penshurst, penshurst, dunton, captain melun, premier, rookley, prime minister, mme]							na	
+270	-0.00081602	[garratt, lakeman, hunstan, carringford, farley, towsey, mother, farm, darsie, chidhurst]							na	
+167	-0.0008271234	[lambert, dalrymple, blodgett, wandel, goodhue, planter, old planter, princeton, bailly, didn]							na	
+257	-0.0008305236	[parkman, dr parkman, beason, hubers, dr, things, work, dr hubers, laboratory, understanding]							na	
+155	-0.0008305236	[buell hampton, buell, hampton, warfield, holden, rankin, bragdon, shields, encampment, jones]							na	
+61	-0.0008325394	[father, mother, child, daughter, heart, dear, life, god, loved, woman]							na	
+320	-0.0008416269	[charter, linster, reifferscheid, ensign, glance, stuyvesant, cross, japha, child, aunt]							na	
+363	-0.0008450271	[copplestone, greyle, chatfield, marston greyle, scarhaven, gilling, marston, sir cresswell, bassett, petherton]							na	
+215	-0.0008450271	[mccarty, orbit, goddard, hughes, inspector, parsons, fu moy, moy, mall, fu]							na	
+349	-0.0008450271	[fu manchu, manchu, fu, smith, dr fu manchu, dr fu, petrie, nayland smith, nayland, karamaneh]							na	
+358	-0.0008561305	[adèle, frink, grimshaw, lumbard, ogden, stanwood, farrandale, knebworth, drummond, car]							na	
+77	-0.0008570331	[eustacia, wildeve, thomasin, yeobright, clym, venn, reddleman, blooms end, vye, egdon]							na	
+67	-0.0008604334	[polaris, minos, oleric, sardanes, kalin, ruthar, zenas, bel ar, bel, snows]							na	
+114	-0.0008638336	[feathers, heriot, dakers, atkins, lawless, golf, looked, knew, laughed, heart]							na	
+172	-0.0008638336	[ball, starbright, merriwell, pip, stott, clockwork, wicket, bat, batsman, goal]							na	
+236	-0.0008672338	[hyde, rem, arenta, joris, ariens, moran, heemskirk, jacobus, mother, macintosh]							na	
+107	-0.0008817374	[hanlon, yandor, amir, roches, ruler, admiral, irad, panek, auldin, mind]							na	
+330	-0.00088264	[father, mother, prather, money, died, madame collier, child, collier, years, wife]							na	
+228	-0.0008928407	[sabatini, weatherley, starling, fenella, chetwode, lalonde, count sabatini, declared, sanson, sabatini smiled]							na	
+519	-0.0008928407	[pasmer, woman, wife, marriage, swinnerton, ramoo, mandeville, women, sandys, thode]							na	
+260	-0.0008928407	[smith, mellicent, blaisdell, duff, pennock, fulton, blaisdells, father duff, hillerton, money]							na	
+341	-0.0008962409	[arabian, garstin, tuyn, craven, portrait, studio, arab, domini, batouch, ay]							na	
+123	-0.000903944	[beppo, popeau, aunt cosy, polda, la solitude, cosy, countess, fairfield, solitude, beppo polda]							na	
+245	-0.0009073442	[grison, sorley, peacock, fuller, bakche, inderwick, baldwin, latimer, jotty, belstone]							na	
+126	-0.0009150474	[bunting, sleuth, chandler, lodger, avenger, bunting looked, bunting felt, stepmother, old aunt, bunting bunting]							na	
+131	-0.0009211556	[london, street, streets, road, houses, city, carriage, passed, world, windows]							na	
+204	-0.0009329511	[pluma, hurlhurst, tab, stanwick, pluma hurlhurst, septima, whitestone hall, whitestone, lyon, heiress]							na	
+274	-0.0009406542	[gedge, uncle si, gedge antiques, antiques, si, roon, picture, hobbema, uncle, duponnet]							na	
+407	-0.0009406542	[socialism, government, voters, war, socialists, revolution, powart, american, state, people]							na	
+266	-0.0009474547	[ocumpaugh, gwendolen, carew, child, bungalow, homewood, trevitt, dowsett, gwendolen ocumpaugh, shoe]							na	
+338	-0.0009474547	[rowlandson, rags, curlew nest, valentines, bungalow, curlew, pembroke, burbage, bunsey, farquharson]							na	
+187	-0.0009474547	[penniman, townsend, sloper, almond, aunt, dr sloper, father, doctor, niece, washington square]							na	
+189	-0.0009551578	[bees, rolla, cunora, dulnop, corrus, emmon, hives, hive, wax, sting]							na	
+20	-0.0009562709	[mcgivney, guffey, watts, de voe, voe, alloi, reds, stirling, boyer, mclean]							na	
+88	-0.0009696613	[phantom, pinto, culligore, shei, gray phantom, gage, hardwick, bimble, granger, fairspeckle]							na	
+163	-0.0009714667	[dance, dancing, danced, waltz, dancers, partner, music, dances, dancer, girls]							na	
+537	-0.0009730616	[detective, barnes, bradys, criminal, brisson, shorty, detectives, tulmin, crime, police]							na	
+226	-0.0009807647	[richmond, hanky, vanderkief, father, mother, boller, daughter, macallister, girl, dear]							na	
+89	-0.0009834727	[fish, trout, fishing, water, hook, ellison, stream, pool, fisherman, bait]							na	
+130	-0.0009841649	[hanaud, frobisher, harlowe, upcott, waberski, monsieur hanaud, monsieur, mademoiselle, crenelle, maison crenelle]							na	
+40	-0.000991868	[croft, naia, zitu, jadgor, aphur, robur, tamarizia, helmor, lakkon, himyra]							na	
+135	-0.000991868	[craven, sellingworth, tuyn, braybrooke, cronin, garstin, arabian, berkeley square, ackroyde, berkeley]							na	
+328	-0.0009986684	[upton, mehitable, whipp, carder, whitcomb, mehit, girl, mother, keefe, returned]							na	
+476	-0.0009986684	[huyck, scientific, science, professor, gouldesbrough, lord malvin, malvin, discovery, robold, dr]							na	
+352	-0.0009986684	[gryce, sweetwater, butterworth, adams, detective, lucetta, burnam, gillespie, haney, look]							na	
+176	-0.0010063716	[herrick, carr, marsh, frisco, frith, colonel carr, saxham, endicotte, dr, marsh carr]							na	
+186	-0.0010097718	[panney, drane, mostyn, la fleur, fleur, bannister, cobhurst, tolbridge, denning, rawdon]							na	
+108	-0.0010106744	[webb, pip, kimball, whiting, gerty, coe, fenn, powell, kimball webb, hanley]							na	
+371	-0.0010242753	[lomas, rogers, lunt, superintendent, fortune, nurse dauntsey, dauntsey, mayor, cranford, sandford]							na	
+37	-0.0010269833	[jem, sunnie, trevelyan, sybella, fergusson, dr fergusson, devereux, cure, villiers, briggerland]							na	
+192	-0.0010353787	[melbury, fitzpiers, winterborne, charmond, hintock, giles, timber merchant, timber, merchant, sherton]							na	
+125	-0.0010353787	[garlett, maclean, cheale, dr maclean, bower, kentworthy, thatched, thatched house, arsenic, toogood]							na	
+105	-0.0010686887	[repeller, crab, fleet, ships, crabs, vessels, syndicate, british, _ithuriel_, adamant]							na	
+450	-0.0010720889	[coglin, evidence, constable, murder, crime, police, burfoot, inspector, prisoner, calton]							na	
+95	-0.0010865924	[verbeck, muggs, black, chief, landers, kowen, sheriff, headquarters, roadster, crook]							na	
+200	-0.001101096	[binhart, harding, copeland, second deputy, boat, surf boat, steamer, commissioner, kong, deputy]							na	
+347	-0.0011121993	[lava, volcano, eruption, crater, harding, colonists, island, mountain, spilett, volcanic]							na	
+98	-0.0011233026	[amherst, bessy, langhope, westmore, wyant, ansell, hanaford, gaines, lynbrook, tredegar]							na	
+194	-0.0011267029	[huxham, durgo, vand, lister, coppersley, tunks, pence, captain huxham, inglis, ankers]							na	
+267	-0.0011523097	[hewitt, plummer, crellan, mayes, geldard, seton, case, office, cameo, ritter]							na	
+180	-0.0011634131	[dyke, hillmer, mensmore, corbett, sir dyke, barrister, sir, mansions, detective, putney]							na	
+63	-0.001167716	[ryder, rossmore, judge rossmore, stott, bagley, judge, ryder sr, senator, sr, father]							na	
+387	-0.0011745164	[crooks, knebworth, slant face, wingfield, hughie, slant, jacky, gulden, gardner, ain]							na	
+179	-0.0011779166	[brinn, menendez, camber, abingdon, colonel menendez, knox, mcmurdoch, doctor mcmurdoch, wessex, cray folly]							na	
+94	-0.0012001233	[piers, tudor, lorimer, crowther, denys, sir piers, evesham, sir, guyes, piers eyes]							na	
+111	-0.0012667433	[hollister, penfield, mclane, armstrong, hull, coroner penfield, tristram, coroner, boucicault, compton]							na	
+165	-0.0012880473	[waddington, clancy, bomford, beans, pomfret, sub editor, declared, katz, cowper, wynn]							na	
+120	-0.0012991506	[tchigorsky, ravenspur, mcvay, thurston, holland, lassa, geoff, savine, jessop, dacre]							na	
+70	-0.0013136542	[eustace, biddy, sir eustace, bathurst, stumpy, de vigne, vigne, ye, dance, studley]							na	
+73	-0.0013256602	[kells, cleve, gulden, pearce, bandit, gold, bate, camp, cabin, blicky]							na	
+195	-0.0013281577	[ste, hartley, benham, hara, captain, nilssen, coira, rue, rue du faubourg, du faubourg]							na	
+332	-0.0013281577	[towne, ember, evans, molloy, jerce, baldy, formula, heritage, mcginity, things]							na	
+153	-0.0013315579	[somerset, stancy, de stancy, havill, dare, de, castle, captain de stancy, goodman, captain de]							na	
+262	-0.0013315579	[sartwell, gibbons, marsten, strike, union, braunt, men, maraton, manager, committee]							na	
+314	-0.0013682681	[thorndyke, polton, footprints, microscope, prints, thumb, inspector, deceased, shoes, glass]							na	
+213	-0.0013759712	[berlyn, french, pyke, domlio, crate, sergeant, police, colonel domlio, monsieur, daw]							na	
+112	-0.0013759712	[clemency, dempsi, doctor, ewing, heloise, superbus, selsbury, uncle, trenter, dog]							na	
+199	-0.0013793715	[wheeler, bassett, sayre, reynolds, wallie, livingstone, bed, doctor reynolds, miller, norada]							na	
+137	-0.0013827717	[gavegan, brainard, ellison, barlow, duchess, carlisle, hunt, langly, hannigan, sartwell]							na	
+296	-0.0013827717	[holdfast, sudlow, winslade, thérèse, hosmer, tuyn, cronin, braybrooke, vicar, mother]							na	
+211	-0.0013836744	[gold, metal, paper money, treasure, saxe, metals, gold silver, oxygen, silver, herzog]							na	
+86	-0.001393875	[fyne, de barral, barral, fynes, little fyne, girl, marlow, de, governess, solemnity]							na	
+78	-0.0013981779	[pant, russian, igloo, hanada, fire, cio, jap, jap girl, firebug, reindeer]							na	
+83	-0.0014083786	[wendover, armadale, inspector, stenness, sir, chief constable, fleetwood, constable, shandon, ardsley]							na	
+102	-0.001417887	[violin, diotti, music, violinist, play, piano, anstruther, string, fiddle, sanders]							na	
+82	-0.0014194819	[aldous, raeburn, hallin, wharton, hurd, mellor, aldous raeburn, winterbourne, westall, mother]							na	
+124	-0.0014366935	[room, sir, kenly, vincott, little, eyes, door, looked, face, old]							na	
+128	-0.0014595923	[barbicane, projectile, ardan, nicholl, barbican, velocity, lunar, maston, disc, gun club]							na	
+51	-0.0014700035	[dashwood, winsome, darnley, peden, mayfield, sir dashwood, jock, kissock, dower, father]							na	
+288	-0.001481799	[wireless, wires, wire, radio, current, apparatus, kennedy, telephone, message, receiver]							na	
+143	-0.0014963026	[krafft, dove, schwarz, schilsky, furst, heinz, piano, landale, frau, guest]							na	
+230	-0.0015074059	[ice, pole, polar, dipsey, arctic, sea, antarctic, polar sea, clewe, south]							na	
+93	-0.0015323206	[door, sound, hall, light, room, window, floor, stairs, open, wall]							na	
+103	-0.0015330128	[furneaux, osborne, fenley, hylda, clarke, prout, hylda prout, marsh, de bercy, farrow]							na	
+188	-0.001536413	[barn, hollister, car, mother, old barn, watson, school, hollisters, glenside, winthrop]							na	
+118	-0.0015475163	[carrington, mallien, hendle, beatson, tollart, cromarty, barrister, bisset, rattar, barship]							na	
+201	-0.0015586197	[leavenworth, gryce, clavering, aggie, harwell, trueman, cousin, crime, ethelwynn, belden]							na	
+203	-0.0015629225	[artist, harringay, painting, paint, pictures, picture, work, studio, sybert, artists]							na	
+129	-0.0015876268	[treharne, judd, mother, heloise, schilsky, hosmer, daughter, dear, school, langdon]							na	
+56	-0.0015928323	[briarfield, bellin, cask, strent, fen inn, sabin, middlemore, fen, marshminster, inn]							na	
+76	-0.0016107361	[vaux, adrea, de vaux, dmitry, ravenel, fez, cottrell, beecot, paulet, lucerne]							na	
+80	-0.0016141363	[octagon, cuthbert, mallow, caranby, maraquito, pavoya, claremanagh, pearls, jennings, orrin]							na	
+156	-0.001624337	[lunar, ardan, barbicane, nicholl, projectile, earth, barbican, disc, surface, satellite]							na	
+68	-0.001624337	[levin, vronsky, arkadyevitch, stepan arkadyevitch, stepan, ivanovitch, sergey, sergey ivanovitch, sviazhsky, alexey]							na	
+85	-0.0016900543	[houghton, jacky, newbolt, bingo, medfield, mercer, green hill, didn, tolly, child]							na	
+91	-0.0016977574	[pomp, yez, shure, av, celt, yo, sor, inventor, ther, begorra]							na	
+96	-0.001774578	[waveney, ingram, everard, moritz, monsieur blackie, thorold, chaytor, blackie, dear, returned waveney]							na	
+127	-0.0017779783	[markham, benson, pfyfe, cleaver, leacock, skeel, greene, district attorney, mannix, sergeant]							na	
+268	-0.0018146885	[letter, letters, written, envelope, handwriting, paper, grizel, read, writing, write]							na	
+282	-0.0018146885	[key, keys, lock, locked, door, hewitt, morriston, door locked, room, window]							na	
+158	-0.001841198	[soul, life, human, world, universe, body, earth, death, theory, science]							na	
+24	-0.0019001149	[gray seal, seal, bat, gray, carruthers, tocsin, underworld, markel, magpie, flashlight]							na	
+196	-0.0019572264	[wu, chinaman, chinese, tarling, theydon, yeh, chuh, tab, wong, forbes]							na	
+41	-0.0019649296	[nemo, nautilus, captain nemo, conseil, _nautilus_, captain, canadian, sea, meters, ocean]							na	
+237	-0.00200504	[chauffeur, car, driver, train, cab, motor, road, station, taxi, street]							na	
+69	-0.0020111482	[germany, war, england, germans, nations, country, nation, falbe, government, world]							na	
+65	-0.0020605567	[wastewater, aunt, fleming, thryng, mother, frale, hoke, hedda, baby, hoyle]							na	
+132	-0.0020793631	[revolver, pistol, weapon, bullet, rand, gun, fired, cartridges, shot, loaded]							na	
+157	-0.0022030946	[inspector, constable, policeman, sir, trasmere, sergeant, police, cosgrove, goldberry, carver]							na	
+34	-0.0023089224	[juve, fandor, fantômas, dollon, havard, vagualame, monsieur, journalist, vinson, bobinette]							na	
+42	-0.0023193335	[bristo, fancy, shiner, gilder, father, colonel bristo, dickory, dicky, edmonstone, wetheral]							na	
+152	-0.0023823428	[window, elk, door, room, windows, floor, locked, lock, key, house]							na	
+174	-0.0024258535	[tea, cup, coffee, table, cup tea, sugar, meyfield, pooker, eat, hot]							na	
+140	-0.0025248808	[letter, letters, paper, ink, written, handwriting, envelope, writing, sheet, read]							na	
+7	-0.0025261436	[ye, ter, dat, fer, ain, wi, says, de, th, git]							na	
+109	-0.0025504877	[hurst, testator, thorndyke, executor, property, document, estate, jellicoe, clause, blackmore]							na	
+33	-0.002573597	[osmond, touchett, warburton, lord warburton, rosier, madame, goodwood, stackpole, countess, gardencourt]							na	
+66	-0.0027102372	[merton, colwood, marsham, london, ferrier, tallyn, beechcote, fotheringham, sir, house]							na	
+59	-0.0027272383	[yusuf, squire, josina, ovington, ulysse, thursa, ste, duncombe, sheyk, mabane]							na	
+45	-0.0027886527	[densher, stringham, lowder, olwen, aunt, croy, manford, hadn, really, theale]							na	
+25	-0.0028697763	[hilbery, denham, knutty, garribardine, mcnally, strobridge, selincourt, milvain, bush, tante]							na	
+57	-0.0029731065	[jury, prisoner, judge, court, counsel, evidence, guilty, verdict, trial, case]							na	
+21	-0.0029781016	[kinnison, lensman, patrol, worsel, planet, boskonian, lensmen, lens, space, base]							na	
+30	-0.0029944105	[levice, ainslie, kemp, alwynn, spurlock, winfield, dr kemp, hepsey, wingrave, mcclintock]							na	
+117	-0.0030950326	[poison, morphine, arsenic, dose, administered, poisoning, drug, kennedy, pills, coroner]							na	
+53	-0.0031752535	[seaton, duquesne, space, fenachrone, screens, vessel, beam, ship, planet, screen]							na	
+18	-0.0032094662	[saltash, krill, capper, larpent, lord saltash, wright, bolton, sheppard, eyes, hurd]							na	
+72	-0.0034279221	[balloon, albatross, robur, machine, uncle prudent, prudent, air, flying, aeronaut, wings]							na	
+27	-0.0036336799	[rover, boys, biplane, crabtree, rover boys, pelter, rovers, _dartaway_, machine, sobber]							na	
+71	-0.003791624	[dunham, girl, going, dear, judge, won, eyes, isn, want, didn]							na	
+38	-0.0039289565	[mars, martian, martians, planet, earth, disintegrators, electrical, ships, asteroid, electrical ships]							na	
+79	-0.0041091073	[tobacco, cigar, cigarette, smoke, cigarettes, smoking, pipe, cigars, smoked, pocket]							na	
+26	-0.0041469307	[door, room, light, window, sound, bed, darkness, candle, dream, heard]							na	
+-1	-0.0042950063	[little, time, came, eyes, old, face, room, hand, day, away]							na	
+54	-0.0043191679	[sir, old, gentleman, room, door, didn, butler, little, want, quite]							na	
+47	-0.0046819672	[house, room, windows, furniture, old, hall, rooms, walls, place, wall]							na	
+44	-0.004847404	[comet, earth, planet, jupiter, orbit, saturn, stars, planets, 000, space]							na	
+15	-0.0062847897	[kennedy, shattuck, honora, laboratory, lathrop, clutching hand, case, jameson, dr, doctor]							na	
+46	-0.0063616103	[coroner, deceased, jury, witness, evidence, body, verdict, murder, suicide, inquest]							na	
+9	-0.0080133595	[holmes, watson, sherlock, sherlock holmes, lestrade, case, baker street, sir, friend, raffles]							na	
+3	-0.0085994882	[author, story, 50, 8vo, york, book, illustrations, illustrated, ii, iii]							na	
+12	-0.0108552418	[doctor, dr, patient, nurse, physician, medical, room, sir, door, medicine]							na	
+13	-0.0110163758	[diamonds, jewels, necklace, pearls, stones, ring, gems, gem, stone, thief]							na	
+2	-0.012636017	[heart, life, woman, felt, knew, eyes, world, face, loved, girl]							na	
+14	-0.0143409677	[money, pounds, dollars, cheque, bank, pay, business, notes, want, sum]							na	
+4	-0.0271540674	[want, woman, mean, eyes, dear, loved, heart, life, won, understand]							na	
